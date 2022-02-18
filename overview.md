@@ -2,7 +2,7 @@
 \setlength{\parindent}{0pt}
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk   
-**Meets:** Fall and Spring 2021-2022 Wed 10:00-13:00 KEN Watson Lecture Room 
+**Meets:** Fall and Spring 2021-2022 Wed 10:00-13:00 KEN Watson Lecture Room  
 **Office Hours:** Tue 9-12 (please sign up for a [time](https://goo.gl/Rh19wj) )
 
 ### Description	
