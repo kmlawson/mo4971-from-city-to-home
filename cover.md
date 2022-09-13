@@ -7,7 +7,6 @@
 \makebox[\textwidth]{\includegraphics[width=14cm]{ginza.png}}
 
  
-\textbf{"The View of Ginza from Shinbashi Street" 1914}   
-
+\textbf{“The View of Ginza from Shinbashi Street" 1914}   
 \end{center}
 

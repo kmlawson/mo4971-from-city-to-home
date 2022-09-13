@@ -2,7 +2,7 @@
 
 # Fall Semester
 
-## Week 0 - Introduction: Spaces of History
+## Week 1 - Introduction: Spaces of History
 
 This first orientation session will offer you an overview of the module and its assessments. We will then have a discussion about what spatial history is, and hear a bit from each student about their main interests and goals for the year.
 
@@ -16,7 +16,7 @@ Here are a few concrete example works to discuss at our first meeting. Consider 
 
 Shuishan Yu, “Redefining the Axis of Beijing Revolution and Nostalgia in the Planning of the PRC Capital,” *Journal of Urban History* 34, no. 4 (May 1, 2008): 571–608.
 
-Jeremy E. Taylor, “The Bund: Littoral Space of Empire in the Treaty Ports of East Asia,” Social History 27, no. 2 (May 1, 2002): 125–42.
+Jeremy E. Taylor, “The Bund: Littoral Space of Empire in the Treaty Ports of East Asia,” *Social History* 27, no. 2 (May 1, 2002): 125–42.
 
 Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=1219559)
 
@@ -66,7 +66,7 @@ Alisa Freedman, Laura Miller, and Christine R. Yano, *Modern Girls on the Go: Ge
 
 \pagebreak
 
-## Week 1: Treaty Ports, Leased Territories, and Foreign Concessions
+## Week 2: Treaty Ports, Leased Territories, and Foreign Concessions
 
 Today we will explore the unique spaces that are treaty ports, leased territories, and foreign concessions, which will play an important role in shaping life and interactions in the period this module focuses on. The readings will focus most heavily on China, most of all Shanghai, but they were important in Japan and Korea as well. 
 
@@ -172,7 +172,7 @@ Wood, Frances. *No Dogs and Not Many Chinese: Treaty Port Life in China, 1843-19
 
 \pagebreak
 
-## Week 2 - Historical and Theoretical Approaches to Space
+## Week 3 - Historical and Theoretical Approaches to Space
 
 This week will introduce you to the approaches to space and place of several influential spatial theorists.
 
@@ -241,7 +241,7 @@ Harvey, David. *Social Justice and the City*. Athens: University of Georgia Pres
 
 \pagebreak
 
-## Week 3 - Urban Planning
+## Week 4 - Urban Planning
 
 This week we will explore two of the major urban planning movements and then consider the ways in which urban planning adapts to the colonial setting, especially in the British empire. We'll consider some of the examples where the ambitions of urban planners come into conflict with the realities of urban life in East and Southeast Asia.
 
@@ -294,7 +294,7 @@ Young, Louise. *Beyond the Metropolis: Second Cities and Modern Life in Interwar
 
 \pagebreak
 
-## Week 4 - Utopian Spaces
+## Week 5 - Utopian Spaces
 
 The line between urban planning and utopian visions of society is often a thin one. This week we'll explore some of the ways they intersect.
 
@@ -338,7 +338,7 @@ Wooldridge, Chuck. *City of Virtues: Nanjing in an Age of Utopian Visions*. Univ
 
 \pagebreak
 
-## Week 5 - Geomancy
+## Week 7 - Geomancy
 
 This week will primarily focus on the spatial history and politics of fengshui/p'ungsu/fūsui in East Asia. 
 

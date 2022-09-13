@@ -357,7 +357,7 @@ See these guides on Frog in a Well for many useful resources:
     * historical records related to NTU
     * chief prosecutor in the Tokyo war crimes trials
 * [*Japanese Rule in Formosa*](https://archive.org/details/in.ernet.dli.2015.180113) by Yosaburo Takekoshi (1907)
-* *From far Formosa the island: The island, its people and missions*](https://archive.org/details/fromfarformosai00macdgoog) George Mackay (1896)
+* [*From far Formosa the island: The island, its people and missions*](https://archive.org/details/fromfarformosai00macdgoog) George Mackay (1896)
 * [*Glimpses of Japan and Formosa*](https://archive.org/details/in.ernet.dli.2015.167601) by Harry A. Franck
 * [*The island of Formosa : historical view from 1430 to 1900: history, people, resources and commercial prospects*](https://hdl.handle.net/2027/uc1.c106632912) James Davidson (1903)
 * [*The Statistical Summary of Taiwan*](https://archive.org/details/cu31924023931680) Japanese Government General in Japan.
