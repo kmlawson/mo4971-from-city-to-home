@@ -2,8 +2,8 @@
 \setlength{\parindent}{0pt}
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk   
-**Meets:** Fall and Spring 2021-2022 Wed 10:00-13:00 KEN Watson Lecture Room  
-**Office Hours:** Tue 9-12 (please sign up for a [time](https://goo.gl/Rh19wj) )
+**Meets:** Fall and Spring 2021-2022 Wed 10:00-13:00 St Katharine's Lodge 1.10  
+**Office Hours:** Tue 9-11 on Teams or Thu 5-6pm in person (please sign up for a [time](https://goo.gl/Rh19wj) )
 
 ### Description	
 
@@ -11,42 +11,39 @@ This module explores the spatial histories of nineteenth- and twentieth-century 
 
 ### Overview
 
-Week 0 - Introduction: Spaces of History  
-Week 1 - Treaty Ports and Foreign Concessions  
-Week 2 - Historical and Theoretical Approaches to Spatial History  
-Week 3 - Urban Planning  
-Week 4 - Utopian Spaces  
-Week 5 - Geomancy  
-Week 7 - Home and Domestic Space  
-Week 8 - Housing, Neighbourhood, and Suburb  
-Week 9 - Parks and Gardens   
-Week 10 - Social Spaces  
-Week 11 - Spaces of Consumption  
-
-*Long Essay Due* 
+Week 1 - Introduction: Spaces of History  
+Week 2 - Treaty Ports and Foreign Concessions  
+Week 3 - Historical and Theoretical Approaches to Spatial History  
+Week 4 - Urban Planning  
+Week 5 - Utopian Spaces  
+Week 7 - Tropicality  
+Week 8 - Health, Hygiene and Sanitation
+Week 9 - The Home and Domestic Space  
+Week 10 - Housing, Neighbourhood, and Suburb
+Week 11 - Parks and Gardens  
 
 **Semester Two:**
 
-Week 1 - Exhibitions  
-Week 2 - Guest Seminar: Heritage, Memory and Punishment  
-Week 3 - Tropicality  
-Week 4 - Health, Hygiene and Sanitation  
-Week 5 - Messy Urbanism  
-Week 6 - Other Spaces  
+Week 1 - Space and Mobility  
+Week 2 - Guest Seminar Yee, Sangwook : Museums and Exhibitions  
+Week 3 - The Gaze of the Tourist  
+Week 4 - Social Spaces
+Week 5 - Spaces of Consumption  
+Week 6 - Messy Urbanism  
 Week 7 - Urban Space, Order, and Politics  
 Week 8 - Migration and Ethnic Space  
-Week 9 - Space and Mobility  
-Week 10 - Spaces of Tourism  
-Week 11 - Sacred Space  
+Week 9 - Other Spaces  
+Week 10 - Geomancy  
+Week 11 - Sacred Space 
 
 ### Assessment Summary
 
 **100% Coursework**  
 
-Long Essay Fall (25%) - 5,000 words - 10 December (Exam week 1 Friday)  
-Long Essay Spring (25%) - 5,000 words - 18 April (Revision Week 2 Monday)  
-Blog Entries Fall (10%) - 4 entries - 29 October (W7 Friday)  
-Blog Entries Spring (10%) - 4 entries - 11 March (W7 Friday)  
+Long Essay Fall (25%) - 5,000 words - 12 December 
+Long Essay Spring (25%) - 5,000 words - 28 April   
+Blog Entries Fall (10%) - 4 entries - 16 Nov (W7 Wed)  
+Blog Entries Spring (10%) - 4 entries - 29 March (W7 Wed)  
 Presentation Fall (15%)   
 Presentation Spring (15%)    
 

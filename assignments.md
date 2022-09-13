@@ -1,6 +1,6 @@
 ## Assignments
 
-The assessed portion of the coursework for this module consists of a total of four gobbets (two each semester), two long essays (one each semester), two presentations (one each semester). In addition, students are required to come prepared each week having completed the assigned reading and prepared to discuss them. Most weeks students will also be asked to do short unassessed presentations 10 or less minutes each.
+The assessed portion of the coursework for this module consists of a total of two long essays (one each semester), two presentations (one each semester) and eight blog entries (four each semester). In addition, students are required to come prepared each week having completed the assigned reading and prepared to discuss them. Many weeks students will also be asked to do short unassessed presentations 10 or less minutes each.
 
 ### Headers and Formatting
 
@@ -180,9 +180,9 @@ Feedback is generally provided directly on the mark sheet, which will be posted 
 
 ### Assessed Presentations
 
-Most weeks of the semester students will be given and opportunity to present a summary, critique, and raise some discussion questions based on supplementary readings. Two such presentations for each student will be given more time and assessed formally, at least one should be a reading presentation and at least one is a seminar lead presentation. Each of your presentations will be worth 5% of your overall mark for the module. You may volunteer to give more than one reading presentations (but must give the presentation if you commit to it). If you do two or three reading presentations (instead of two) your best presentation will have its mark recorded.
+Most weeks of the semester students will be given and opportunity to present a summary, critique, and raise some discussion questions based on assigned required or elective readings. Two such presentations for each student will be given more time and assessed formally, at least one should be a reading presentation and at least one is a seminar lead presentation. Each of your presentations will be worth 5% of your overall mark for the module. You may volunteer to give more than one reading presentations (but must give the presentation if you commit to it). If you do two or three reading presentations (instead of two) your best presentation will have its mark recorded.
 
-**Reading Presentation:** a reading presentation should be 15 minutes in length and not a minute longer. It may focus on a single author monograph listed in required, elective or the "Further Reading" section for the week and labelled with a (P). If we have been assigned only a portion of this reading, you should still make your presentation on the work as a whole. It should summarise the main arguments, and make 1-3 to focused critiques or observations about the read material. A supplementary handout (1-2 pages at most) should be uploaded to the MMS and also copies of it brought that includes some bullet points from the summary, any key persons or dates, and a few questions about the themes in the reading to kick off our discussion. You may optionally give a second or third reading presentation during the year.
+**Reading Presentation:** a reading presentation should be 20 minutes in length and not a minute longer. It may focus on a single author monograph listed in required, elective or the "Further Reading" section for the week and labelled with a (P). If we have been assigned only a portion of this reading, you should still make your presentation on the work as a whole. It should summarise the main arguments, and make 1-3 to focused critiques or observations about the read material. A supplementary handout (1-2 pages at most) should be uploaded to the MMS and also copies of it brought that includes some bullet points from the summary, any key persons or dates, and a few questions about the themes in the reading to kick off our discussion. You may optionally give a second or third reading presentation during the year.
 
 **Seminar Lead Presentation:** In a seminar lead presentation you will lead the seminar discussion for 30-45 minutes. Focusing on the assigned readings, you may speak for 5-10m about some of the readings and their context, if you wish, and you may run the remainder of the time as you see most appropriate. This may include: asking questions and moderating the discussion that follows; carrying out specific tasks or games related to the readings; bringing in a supplemental primary source (perhaps one mentioned or related to those mentioned in one or more reading) and working with the class on reading it and analysing it; asking students to discuss questions in pairs or groups; and so on. You may also ask students to perform a task in preparation for the seminar, including interacting with the moodle, as you see fit. I may participate in some of the activity and discussion but also need to hang back a bit to observe and take notes for marking purposes. The purpose of this exercise is to give you a taste of the challenges of running a seminar, keeping students engaged, getting students to more actively participate, drawing out important points from the reading, and showing a good mastery of the material for the day.
 
@@ -207,23 +207,19 @@ We have a module website at:
 
 [http://spatialhistory.net/cities/](http://spatialhistory.net/cities/)
 
-This is a public facing website where students will contribute postings, but no students will be asked to use their real name. It should include footnotes for reference to a source, but no bibliography. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of four postings** during each of the two semesters and these postings must be **posted across at least four different weeks**. They are due in Week 7 of the fall and spring so you may skip a week or two.
+This is a public facing website where students will contribute postings, but no students will be asked to use their real name. It should include footnotes for reference to a source, but no bibliography. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of four postings** during each of the two semesters and these postings must be **posted across at least three different weeks**. They are due in Week 7 of the fall and spring so you may skip a week or two and double post in one week.
 
 Again, your blog entries must be **written, uploaded, and publicly visible** on dates from four different weeks (Monday to Sunday semester weeks). You cannot write the posts and then upload them all at once as the deadline nears. You cannot post entries and set their date to an earlier point in the semester. Any submitted blog entry which comes from the same Monday to Sunday week as another post will receive a 4 point penalty.
 
-By Friday of Week 7, you should copy and paste four selected blog postings, including their titles, links to the online version, and the date they were posted online into a document and upload this document to the MMS. The postings must already be on the blog, and cannot be new postings produced for the submission. Points for the overall mark will be the average of the mark on the six selected and submitted postings. Each posting will not receive specific feedback but instead receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks):
+By the deadline in Week 7, you should copy and paste four selected blog postings (if you posted more than four, choose your best postings), including their titles, links to the online version, and you must include the date they were posted and available online into a document and upload this document to the MMS. **The postings must already be on the blog, and cannot be new postings produced for the submission.** This is how I confirm that you did indeed write them in at least three different weeks. Points for the overall mark will be the average of the mark on the selected and submitted postings. Feedback will be on the postings in general, highlighting strengths and areas for improvement across them. 
 
-* 3 points if the posting makes a clear analytical point
-* 3 points if the posting makes concrete references to particular parts of a source and ideally one of our secondary readings, with a footnote
-* 3 points if the posting was well-written in terms of language
-* 3 points if the posting was relevant to assigned readings or further readings
-* 3 points if the posting keeps a good focus throughout.
-* 2 points if the posting had no issues of accuracy
-* 3 additional points will be given for postings that are of especially high quality
-
-A decent posting, with no significant flaws, should, therefore, get a score of 17. Particularly strong postings may garner 20s. 
-
-*Example:* A student writes 6 postings during the semester totalling 3,200 words. They select 4 of these, including 1 high quality post of 500 words (20), 2 posts that meet the requirements but were not exceptional, one 500 and one 600 words (each getting 17), and 1 post of 800 words that follows all the above but did not maintain a clear focus (17-3=14), then the overall blog mark would come to (20+17+17+14)/4 = 17
+* Does the posting makes a clear analytical point?
+* Does the posting make concrete references to particular parts of a source and ideally one of our secondary readings, with a footnote?
+* Was the posting well-written in terms of language?
+* Was the posting was relevant to assigned readings or further readings?
+* Did the posting keep a good focus throughout?
+* Did the posting have any issues of accuracy?
+* Was the posting of especially high quality?
 
 **How to Post Blog Entries:** You will be given details for your login information late in the first week. Then to login, go to:
 
@@ -242,8 +238,10 @@ A decent posting, with no significant flaws, should, therefore, get a score of 1
 
 **What to Write:**
 
+- IMPORTANT: Write a blog entry for a visitor of the website, not for Konrad, or for your classmates. Do not assume your reader has a deep knowledge of the material or historical context: provide enough of this for them to be able to understand what you are speaking of. 
 - One of your four postings can (but is not required to) be in the form of a prospectus: talk about your essay idea and give concrete examples of the kinds of primary and secondary sources you want to use, demonstrating that you have read some of them at least in part.
-- The remainder of your postings should focus on a primary source, ideally not from among the required readings of the week. Find a source for a space and time period you are interested in and write about it, tying it to the secondary scholarship for one of the weeks.
+- If you like, one of your four postings can write about a primary source that you have found particularly interesting in your essay research.
+- The remainder of your postings should focus on a primary source, ideally not from among the required readings of the week, or at least from a page range not included in the required readings. You may choose a source for a space and time period you are interested in and write about it from the footnotes of our readings, etc. but do try to tie it to the secondary scholarship for one of the weeks.
 - Your postings should ideally each aim to be between 300-1,000 words but you won't be penalised for something longer on word count alone. 
 - The posts should have a single overarching purpose and unified focus
 - Avoid vague references to what you like and don't like; what you found interesting or not interesting - unless you follow this up with concrete and specific reasons why something is interesting or valuable.
