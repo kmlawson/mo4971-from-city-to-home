@@ -16,7 +16,7 @@ This first orientation session will offer you an overview of the module and its 
  
 *Please read:*
 
-Riccardo Bavaj, Konrad Lawson, and Bernhard Struck *Doing Spatial History* (2022) [Ebook](http://library.st-andrews.ac.uk/record=b3201758~S5)
+Riccardo Bavaj, Konrad Lawson, and Bernhard Struck *Doing Spatial History* (2022), Introduction. [Ebook](http://library.st-andrews.ac.uk/record=b3201758~S5)
 
 Konrad Lawson, Riccardo Bavaj and Bernhard Struck *A Guide to Spatial History: Areas, Aspects, and Avenues of Research* (2021), [City and Home](https://spatialhistory.net/guide/index.html) - After reading this short section, have a look through the footnotes to get a feel of the range of scholarship out there.
 

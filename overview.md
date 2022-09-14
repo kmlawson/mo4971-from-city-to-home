@@ -17,9 +17,9 @@ Week 3 - Historical and Theoretical Approaches to Spatial History
 Week 4 - Urban Planning  
 Week 5 - Utopian Spaces  
 Week 7 - Tropicality  
-Week 8 - Health, Hygiene and Sanitation
+Week 8 - Health, Hygiene and Sanitation  
 Week 9 - The Home and Domestic Space  
-Week 10 - Housing, Neighbourhood, and Suburb
+Week 10 - Housing, Neighbourhood, and Suburb  
 Week 11 - Parks and Gardens  
 
 **Semester Two:**
@@ -40,7 +40,7 @@ Week 11 - Sacred Space
 
 **100% Coursework**  
 
-Long Essay Fall (25%) - 5,000 words - 12 December 
+Long Essay Fall (25%) - 5,000 words - 12 December  
 Long Essay Spring (25%) - 5,000 words - 28 April   
 Blog Entries Fall (10%) - 4 entries - 16 Nov (W7 Wed)  
 Blog Entries Spring (10%) - 4 entries - 29 March (W7 Wed)  
