@@ -2,6 +2,10 @@
 
 # Fall Semester
 
+Jump to: [W1](#w1) | [W2](#w2) | [W3](#w3) | [W4](#w4) | [W5](#w5) | [W6](#w6) | [W7](#w7) | [W8](#w8) | [W9](#w9) | [W10](#w10) | [W11](#w11)
+
+<a name="w1"></a>
+
 ## Week 1 - Introduction: Spaces of History
 
 This first orientation session will offer you an overview of the module and its assessments. We will then have a discussion about what spatial history is, and hear a bit from each student about their main interests and goals for the year.
@@ -26,7 +30,7 @@ Shuishan Yu, “Redefining the Axis of Beijing Revolution and Nostalgia in the P
 
 Jeremy E. Taylor, “The Bund: Littoral Space of Empire in the Treaty Ports of East Asia,” *Social History* 27, no. 2 (May 1, 2002): 125–42. [Jstor](https://www.jstor.org/stable/4286873)
 
-Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=1219559)
+Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [ebook](http://library.st-andrews.ac.uk/record=b2048036~S5)
 
 **Optional Background Reading on East and Southeast Asia**
 
@@ -73,6 +77,8 @@ Lizzy van Leeuwen *Lost in the Mall: An Ethnography of Middle-Class Jakarata in 
 Alisa Freedman, Laura Miller, and Christine R. Yano, *Modern Girls on the Go: Gender, Mobility, and Labor in Japan* (Stanford University Press, 2013). [Ebook](http://library.st-andrews.ac.uk/record=b3159349~S5)
 
 \pagebreak
+
+<a name="w2"></a>
 
 ## Week 2: Treaty Ports, Leased Territories, and Foreign Concessions
 
@@ -180,6 +186,8 @@ Wood, Frances. *No Dogs and Not Many Chinese: Treaty Port Life in China, 1843-19
 
 \pagebreak
 
+<a name="w3"></a>
+
 ## Week 3 - Historical and Theoretical Approaches to Space
 
 This week will introduce you to the approaches to space and place of several influential spatial theorists.
@@ -249,6 +257,8 @@ Harvey, David. *Social Justice and the City*. Athens: University of Georgia Pres
 
 \pagebreak
 
+<a name="w4"></a>
+
 ## Week 4 - Urban Planning
 
 This week we will explore two of the major urban planning movements and then consider the ways in which urban planning adapts to the colonial setting, especially in the British empire. We'll consider some of the examples where the ambitions of urban planners come into conflict with the realities of urban life in East and Southeast Asia.
@@ -266,32 +276,32 @@ Pearson, H. F. ‘Lt. Jackson’s Plan of Singapore’. *Journal of the Malaysia
 
 Peter Hall *Cities of Tomorrow: An Intellectual History of Urban Planning and Design since 1880*  (2014 4th ed.)  
 *Read at least one of the following two chapters:*  
-Ch 4 "The City in the Garden" - on the Garden City movement.  
-Ch 6 "The City of Monuments" - on the City Beautiful movement.
+Ch 4 "The City in the Garden" - on the Garden City movement.  (See Files)
+Ch 6 "The City of Monuments" - on the City Beautiful movement. (See Files)
 
 Yeoh, Brenda *Contesting Space in Colonial Singapore* Ch 2 Establishing an Institution of Control over the Urban Built Environment: The Municipal Authority of Singapore, 1819-1930 [Ebook](http://library.st-andrews.ac.uk/record=b3141543~S5)
 
-Home, Robert K. *Of Planting and Planning: The Making of British Colonial Cities* (1996)  
+Home, Robert K. *Of Planting and Planning: The Making of British Colonial Cities* (1996)  [Ebook](http://library.st-andrews.ac.uk/record=b3153697~S5)
 Ch 1 "The 'Grand Modell' of Colonial Settlement" pp9-37   
 Ch 2 "'Planting is My Trade': The Shapers of Colonial Urban Landscapes" pp38-63
 
 **Elective Reading:**
 
-A) Home, Robert K. Of *Planting and Planning: The Making of British Colonial Cities*. Taylor & Francis, 1996. Ch 6, 7
+A) Home, Robert K. Of *Planting and Planning: The Making of British Colonial Cities*. Taylor & Francis, 1996. Ch 6, 7 [Ebook](http://library.st-andrews.ac.uk/record=b3153697~S5)
 
 B) Dong, Madeleine Yue, *Republican Beijing: The City and Its Histories* (2003). Ch 1 From Imperial Capital to Republican City pp21-53; Ch 3 Tradition: The City and the Nation pp78-101 [Ebook](http://library.st-andrews.ac.uk/record=b2059740~S5)
 
-C) Colombijn, Freek et al. *Cars, Conduits, and Kampongs: The Modernization of the Indonesian City, 1920-1960* (2014). Ch 4 "Netherlands Indies Town Planning: An Agent of Modernization (1905-1957)" pp87-117 [Ebook](http://library.st-andrews.ac.uk/record=b3159328~S5)
+C) Colombijn, Freek et al. *Cars, Conduits, and Kampongs: The Modernization of the Indonesian City, 1920-1960* (2014). Ch 4 "Netherlands Indies Town Planning: An Agent of Modernization (1905-1957)" pp87-117 [Open Access](https://brill.com/view/title/26707)
 
-D) Esherick, Joseph, ed. *Remaking the Chinese City: Modernity and National Identity, 1900-1950* (2002) Ch 9 "Building a Dream: Constructing a National Capital in Nanjing, 1927-1937"; Ch 11 "The City as Nation: Creating a Wartime Capital in Chongqing"
+D) Esherick, Joseph, ed. *Remaking the Chinese City: Modernity and National Identity, 1900-1950* (2002) Ch 9 "Building a Dream: Constructing a National Capital in Nanjing, 1927-1937"; Ch 11 "The City as Nation: Creating a Wartime Capital in Chongqing" [Ebook](http://library.st-andrews.ac.uk/record=b3081774~S5)
 
-E) Wooldridge, Chuck. *City of Virtues: Nanjing in an Age of Utopian Visions* (2015) Ch 4 "Zeng Guofan's Construction of a Ritual Center, 1864-72" pp117-149
+E) Wooldridge, Chuck. *City of Virtues: Nanjing in an Age of Utopian Visions* (2015) Ch 4 "Zeng Guofan's Construction of a Ritual Center, 1864-72" pp117-149 [Ebook](http://library.st-andrews.ac.uk/record=b3238681~S5)
 
-G) Dawley, Evan *Becoming Taiwanese: Ethnogenesis in a Colonial City 1880s-1950s* Ch 1 "Building and Populating a Vanguard City" pp27-77
+G) Dawley, Evan *Becoming Taiwanese: Ethnogenesis in a Colonial City 1880s-1950s* Ch 1 "Building and Populating a Vanguard City" pp27-77 (See Files)
 
 H) Henry, Todd A. *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910–1945* (2014) Introduction;  Ch 1 Constructing Keijō [Ebook](http://library.st-andrews.ac.uk/record=b2052230~S5)
 
-I) Stapleton, Kristin *Civilizing Chengdu: Chinese Urban Reform, 1895-1937* (2000). Ch 2 Nation Building and the City, 1895-1911 pp46-76. 
+I) Stapleton, Kristin *Civilizing Chengdu: Chinese Urban Reform, 1895-1937* (2000). Ch 2 Nation Building and the City, 1895-1911 pp46-76. [Ebook](http://library.st-andrews.ac.uk/record=b3208545~S5)
 
 **Further Reading:**
 
@@ -301,6 +311,8 @@ Young, Louise. *Beyond the Metropolis: Second Cities and Modern Life in Interwar
 
 
 \pagebreak
+
+<a name="w5"></a>
 
 ## Week 5 - Utopian Spaces
 
@@ -318,25 +330,25 @@ Tucker, David "City Planning Without Cities: Order and Chaos in Utopian Manchuku
 
 Buck, David D. "Railway City and National Capital: Two Faces of the Modern in Changchun" in *Railway City and National Capital: Two Faces of the Modern in Changchun* [Ebook](http://library.st-andrews.ac.uk/record=b3173536~S5)
 
-Sewell, Bill *Constructing Empire: The Japanese in Changchun, 1905-45* Ch 2 "Imperialist and Imperial Facades"
+Sewell, Bill *Constructing Empire: The Japanese in Changchun, 1905-45* Ch 2 "Imperialist and Imperial Facades" [Ebook](http://library.st-andrews.ac.uk/record=b3238682~S5)
 
 Louise Young, *Japan’s Total Empire: Manchuria and the Culture of Wartime Imperialism, Twentieth-Century Japan*  (Berkeley, Calif: University of California Press, 1999), "Brave New Empire: Utopian Vision and the Intelligentsia" 241-268. (P) [Ebook](http://library.st-andrews.ac.uk/record=b1940809~S5)
 
 **Elective Reading:**
 
-A) Cole Roskam, *Improvised City: Architecture and Governance in Shanghai, 1843-1937* (2019), Ch 5-6. 
+A) Cole Roskam, *Improvised City: Architecture and Governance in Shanghai, 1843-1937* (2019), Ch 5-6. [Ebook](http://library.st-andrews.ac.uk/record=b3208439~S5)
 
-B) Wright, Gwendolyn *The Politics of Design in French Colonial Urbanism* (1991) Ch 4 "Indochina: The Folly of Grandeur"
+B) Wright, Gwendolyn *The Politics of Design in French Colonial Urbanism* (1991) Ch 4 "Indochina: The Folly of Grandeur" (See Files)
 
 C) Aaron Moore, *Constructing East Asia: Technology, Ideology, and Empire in Japan’s Wartime Era, 1931-1945* (Stanford University Press, 2013), chapter "Constructing the Continent" - but only the "Urban Technological Imaginaries: The Case of “Pan-Asian” Beijing" section from pp121-135. [Ebook](http://library.st-andrews.ac.uk/record=b2061798~S5) + Leon Antonio Rocha, ‘A Utopian Garden City: Zhang Jingsheng’s “Beautiful Beijing”’, in *The Habitable City in China: Urban History in the Twentieth Century*, 2017. [Ebook](http://library.st-andrews.ac.uk/record=b2483365~S5)
 
-D) Lin, Zhongjie *Kenzo Tange and the Metabolist Movement: Urban Utopias of Modern Japan* (2010) Ch 1-2
+D) Lin, Zhongjie *Kenzo Tange and the Metabolist Movement: Urban Utopias of Modern Japan* (2010) Ch 1-2 (See Files)
 
 E) Lawrence Chua, Ronald G. Knapp, and Xing Ruan, *Bangkok Utopia: Modern Architecture and Buddhist Felicities, 1910–1973* Ch 3, 8  [Ebook](http://library.st-andrews.ac.uk/record=b3147602~S5) 
 
-F) Joseph R. Allen *Taipei: City of Displacements* (University of Washington Press, 2012), Ch 1 "Mapping the City", 17-41 (P)
+F) Joseph R. Allen *Taipei: City of Displacements* (University of Washington Press, 2012), Ch 1 "Mapping the City", 17-41 (P) (See Files)
 
-G) Oshima, Ken Tadashi. ‘Denenchōfu: Building the Garden City in Japan’. Journal of the Society of Architectural Historians 55, no. 2 (1996): 140–51. [DOI](https://doi.org/10.2307/991116) - keep this text in mind when we read more on Denenchōfu later in the semester.
+G) Oshima, Ken Tadashi. ‘Denenchōfu: Building the Garden City in Japan’. *Journal of the Society of Architectural Historians* 55, no. 2 (1996): 140–51. [Jstor](https://www.jstor.org/stable/991116 ) - keep this text in mind when we read more on Denenchōfu later in the semester.
 
 **Further Reading**
 
@@ -346,38 +358,43 @@ Wooldridge, Chuck. *City of Virtues: Nanjing in an Age of Utopian Visions*. Univ
 
 \pagebreak
 
+<a name="w6"></a>
+
 ## Week 6 - Independent Learning Week
 
 There is no meeting in Independent Learning Week but this a very important time for you to make progress on your long essay: a time for reading, refining, or a time for a shift in direction if your initial ideas are not fruitful. Especially important is to give yourself to browse primary sources and allow for potentially useful discoveries. You can also use this time to catch up on any readings you may not have good notes for.
 
 \pagebreak
 
+<a name="w7"></a>
+
 ## Week 7 - Tropicality  
 
 **Required Reading:**
 
-*Hippocrates* v. 1 'Airs Waters Places' XII-XVI pp[105](https://www-loebclassics-com.ezproxy.st-andrews.ac.uk/view/hippocrates_cos-airs_waters_places/1923/pb_LCL147.105.xml)-117  [ebook](http://library.st-andrews.ac.uk/record=b2382738~S5)
+*Hippocrates* v. 1 'Airs Waters Places' XII-XVI pp[105](https://www-loebclassics-com.ezproxy.st-andrews.ac.uk/view/hippocrates_cos-airs_waters_places/1923/pb_LCL147.105.xml)-117  [Ebook](http://library.st-andrews.ac.uk/record=b2382738~S5)
 
-Anne M. Cohler et al eds. Montesquieu *The Spirit of the Laws* Book 17 Ch 3 'On the Climate of Asia' to Ch 8 pp279-284 (Teams)
+*Vitruvius* Book VI, Ch 1 "On Climate as Determining the Style of the House" pp170-174 [Ebook](http://library.st-andrews.ac.uk/record=b3073961~S5)
 
-Arnold, David John. *The Tropics and the Traveling Gaze: India, Landscape, and Science, 1800-1856* Introduction + Ch 4 From the Orient to the Tropics [ebook](https://library.st-andrews.ac.uk/record=b3008961~S5)
+Anne M. Cohler et al eds. Montesquieu *The Spirit of the Laws* Book 17 Ch 3 'On the Climate of Asia' to Ch 8 pp279-284 (See Files)
 
-Jiat-Hwee Chang *A Genealogy of Tropical Architecture: Colonial Network, Nature and Technoscience* Introduction + Conclusion
+Arnold, David John. *The Tropics and the Traveling Gaze: India, Landscape, and Science, 1800-1856* Introduction + Ch 4 From the Orient to the Tropics [Ebook](https://library.st-andrews.ac.uk/record=b3008961~S5)
 
-Alatas, Syed Hussein. *The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial Capitalism* (P) (On Teams) Ch 1-2 (pp35-59), Ch 7 (pp98-111)
+Jiat-Hwee Chang *A Genealogy of Tropical Architecture: Colonial Network, Nature and Technoscience* Introduction + Conclusion [Ebook](http://library.st-andrews.ac.uk/record=b3204196~S5)
 
+Riccardo Bavaj, Konrad Lawson, Bernhard Struck eds. *Doing Spatial History* Ch 13 Regional Imaginaries [Ebook](https://library.st-andrews.ac.uk/record=b3201758~S5)
 
 **Elective Reading:**
 
-- A) Riccardo Bavaj, Konrad Lawson, Bernhard Struck eds. *Doing Spatial History* Ch 13 Regional Imaginaries [ebook](https://library.st-andrews.ac.uk/record=b3201758~S5)
-- B) Jiat-Hwee Chang *A Genealogy of Tropical Architecture: Colonial Network, Nature and Technoscience* Ch 1
-- C) Clayton, Daniel, and Gavin Bowd. ‘Geography, Tropicality and Postcolonialism: Anglophone and Francophone Readings of the Work of Pierre Gourou’. *Espace Géographique* 35, no. 3 (2006): 208. [DOI](https://doi.org/10.3917/eg.353.0208) (Teams)
-- D) Driver, Felix. ‘Imagining the Tropics: Views and Visions of the Tropical World’. *Singapore Journal of Tropical Geography* 25, no. 1 (2004): 1–17. [DOI](https://doi.org/10.1111/j.0129-7619.2004.00167.x) (Teams)
-- E) Driver, Felix, and Luciana Martins. *Tropical Visions in an Age of Empire* Afterward: Tropic and Tropicality [ebook](http://library.st-andrews.ac.uk/record=b2059153~S5)
-- F) Jennings, Eric Thomas. *Imperial Heights: Dalat and the Making and Undoing of French Indochina* [ebook](https://library.st-andrews.ac.uk/record=b1890228~S5) Ch 1 Escaping Death in the Tropics; Ch 3 Health, Attitude, and Climate 
+- A) Jiat-Hwee Chang *A Genealogy of Tropical Architecture: Colonial Network, Nature and Technoscience* Ch 1 [Ebook](http://library.st-andrews.ac.uk/record=b3204196~S5)
+- B) Clayton, Daniel, and Gavin Bowd. ‘Geography, Tropicality and Postcolonialism: Anglophone and Francophone Readings of the Work of Pierre Gourou’. *Espace Géographique* 35, no. 3 (2006): 208. [DOI](https://doi.org/10.3917/eg.353.0208) (See Files)
+- C) Driver, Felix. ‘Imagining the Tropics: Views and Visions of the Tropical World’. *Singapore Journal of Tropical Geography* 25, no. 1 (2004): 1–17. [DOI](https://doi.org/10.1111/j.0129-7619.2004.00167.x) (See Files)
+- D) Driver, Felix, and Luciana Martins. *Tropical Visions in an Age of Empire* Afterward: Tropic and Tropicality [Ebook](http://library.st-andrews.ac.uk/record=b2059153~S5)
+- E) Jennings, Eric Thomas. *Imperial Heights: Dalat and the Making and Undoing of French Indochina* [Ebook](https://library.st-andrews.ac.uk/record=b1890228~S5) Ch 1 Escaping Death in the Tropics; Ch 3 Health, Attitude, and Climate 
 
 **Further Reading:**
 
+- Alatas, Syed Hussein. *The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial Capitalism* (P) (See Files) Ch 1-2 (pp35-59), Ch 7 (pp98-111)
 - Demay, Aline. *Tourism and Colonization in Indochina (1898-1939)* (P) Ch 2 Indochinese Resorts, a New Reading of Space
 - Clayton, Daniel. ‘Tropical Geography’. In *International Encyclopedia of Geography: People, the Earth, Environment and Technology* edited by Douglas Richardson, Noel Castree, Michael F. Goodchild, Audrey Kobayashi, Weidong Liu, and Richard A. Marston, 1–3. Oxford, UK: John Wiley & Sons, Ltd, 2017. [DOI](https://doi.org/10.1002/9781118786352.wbieg0726)
 - Zabielskis, Peter, Seng Guan Yeoh, Kat Fatland. *Penang and Its Networks of Knowledge* Ch 5 Tropical Picturesque
@@ -389,6 +406,8 @@ Alatas, Syed Hussein. *The Myth of the Lazy Native: A Study of the Image of the 
 
 \pagebreak
 
+<a name="w8"></a>
+
 ## Week 8 - Health, Hygiene and Sanitation  
 
 **Task:**
@@ -399,17 +418,17 @@ Alatas, Syed Hussein. *The Myth of the Lazy Native: A Study of the Image of the 
 
 **Required Reading:**
 
+- Yeoh, Brenda S. A. *Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment*. NUS Press, 2003. Read Ch 3 Municipal Sanitary Surveillance, Asian Resistance and the Control of the Urban Environment" and skim Ch 5 "Municipal versus Asian Utilities Systems: Urban Water Supply and Sewage Disposal" [Ebook](https://library.st-andrews.ac.uk/record=b3141543~S5)
 - Colombijn, Freek, and Joost Coté, eds. *Cars, Conduits, and Kampongs: The Modernization of the Indonesian City, 1920-1960*  [Open Access](https://brill.com/view/title/26707) Ch 3 (Post)Colonial Pipes: Urban Water Supply in Colonial and Contemporary Jakarta pp63-81
 - Todd A. Henry, *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910–1945* Ch 4 Civic Assimilation: Sanitary Life in Neighborhood Keijō [Ebook](http://library.st-andrews.ac.uk/record=b2052230~S5)
-- Yeoh, Brenda S. A. *Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment*. NUS Press, 2003. Read Ch 3 Municipal Sanitary Surveillance, Asian Resistance and the Control of the Urban Environment" and skim Ch 5 "Municipal versus Asian Utilities Systems: Urban Water Supply and Sewage Disposal" [ebook](https://library.st-andrews.ac.uk/record=b3141543~S5)
-- Laura Victoir and Victor Zatsepine, eds., *Harbin to Hanoi: The Colonial Built Environment in Asia, 1840 to 1940* [ebook](https://library.st-andrews.ac.uk/record=b2068285~S5) Ch 11 Hygienic Colonial Residences in Hanoi 
+- Laura Victoir and Victor Zatsepine, eds., *Harbin to Hanoi: The Colonial Built Environment in Asia, 1840 to 1940* [Ebook](https://library.st-andrews.ac.uk/record=b2068285~S5) Ch 11 Hygienic Colonial Residences in Hanoi 
 
 **Elective Readings:**
 
-- A) Vann, Michael G. “Of Rats, Rice, and Race: The Great Hanoi Rat Massacre, an Episode in French Colonial History.” *French Colonial History* 4 (2003): 191–203.
-- B) Liang, Qizi, Angela Ki Che Leung, and Charlotte Furth. *Health and Hygiene in Chinese East Asia: Policies and Publics in the Long Twentieth Century*. [ebook](http://library.st-andrews.ac.uk/record=b3132662~S5) Read Introduction, and chapters on "The Treatment of Night Soil and Waste in Modern China", "Eating Well in China: Diet and Hygiene in Nineteenth-Century Treaty Ports"
-- C) Harald Fuess, “Informal Imperialism and the 1879 ‘Hesperia’ Incident: Containing Cholera and Challenging Extraterritoriality in Japan,” *Japan Review*, no. 27 (January 1, 2014): 103–40.
-- D) Sutphen, Mary P. “Not What, but Where: Bubonic Plague and the Reception of Germ Theories in Hong Kong and Calcutta, 1894–1897.” *Journal of the History of Medicine and Allied Sciences* 52, no. 1 (January 1, 1997): 81–113. [DOI](https://doi.org/10.1093/jhmas/52.1.81)
+- A) Vann, Michael G. “Of Rats, Rice, and Race: The Great Hanoi Rat Massacre, an Episode in French Colonial History.” *French Colonial History* 4 (2003): 191–203. [Muse](https://muse.jhu.edu/article/42110)
+- B) Liang, Qizi, Angela Ki Che Leung, and Charlotte Furth. *Health and Hygiene in Chinese East Asia: Policies and Publics in the Long Twentieth Century*. [Ebook](http://library.st-andrews.ac.uk/record=b3132662~S5) Read Introduction, and chapters on "The Treatment of Night Soil and Waste in Modern China", "Eating Well in China: Diet and Hygiene in Nineteenth-Century Treaty Ports"
+- C) Harald Fuess, “Informal Imperialism and the 1879 ‘Hesperia’ Incident: Containing Cholera and Challenging Extraterritoriality in Japan,” *Japan Review*, no. 27 (January 1, 2014): 103–40. [Jstor](https://www.jstor.org/stable/23849572)
+- D) Sutphen, Mary P. “Not What, but Where: Bubonic Plague and the Reception of Germ Theories in Hong Kong and Calcutta, 1894–1897.” *Journal of the History of Medicine and Allied Sciences* 52, no. 1 (January 1, 1997): 81–113. [Jstor](https://www.jstor.org/stable/24624205)
 
 **Further Reading:**
 
@@ -434,6 +453,8 @@ Alatas, Syed Hussein. *The Myth of the Lazy Native: A Study of the Image of the 
 
 \pagebreak
 
+<a name="w9"></a>
+
 ## Week 9 - Home and Domestic Space 
 
 Our focus this week will be on the home and domestic space, especially through a comparison of home cultures in 19-20th century urban China and Japan in the works of Elizabeth LaCouture and Jordan Sand.
@@ -446,19 +467,19 @@ Our focus this week will be on the home and domestic space, especially through a
 
 **Required Secondary Reading:**
 
-Elizabeth LaCouture, *Dwelling in the World: Family, House, and Home in Tianjin, China, 1860–1960* (New York: Columbia University Press, 2021). Ch 3-6. [ebook](http://library.st-andrews.ac.uk/record=b3159326~S5) (P)
+Elizabeth LaCouture, *Dwelling in the World: Family, House, and Home in Tianjin, China, 1860–1960* (New York: Columbia University Press, 2021). Ch 3-6. [Ebook](http://library.st-andrews.ac.uk/record=b3159326~S5) (P)
 
-Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Introduction and Ch 1-2 (pp1-94). [ebook](http://hdl.handle.net/2027/heb.05898) (P)
+Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Introduction and Ch 1-2 (pp1-94). [Ebook](http://library.st-andrews.ac.uk/record=b1941202~S5) (P)
 
 **Elective Reading:**
 
-- A) Elizabeth LaCouture, ‘Translating Domesticity in Chinese History and Historiography’, The American Historical Review 124, no. 4 (1 October 2019): 1278–89, https://doi.org/10.1093/ahr/rhz644. 
-- B) Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Introduction and Ch 3-4.
-- C) Rudolf Mrázek, *A Certain Age: Colonial Jakarta through the Memories of Its Intellectuals* (Duke University Press, 2010).
+- A) Elizabeth LaCouture, ‘Translating Domesticity in Chinese History and Historiography’, *The American Historical Review* 124, no. 4 (1 October 2019): 1278–89, [DOI](https://doi.org/10.1093/ahr/rhz644). 
+- B) Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Introduction and Ch 3-4. [Ebook](http://library.st-andrews.ac.uk/record=b1941202~S5)
+- C) Rudolf Mrázek, *A Certain Age: Colonial Jakarta through the Memories of Its Intellectuals* (Duke University Press, 2010). [Ebook](http://library.st-andrews.ac.uk/record=b2707954~S5)
     - Ch 1 The Walls pp24-71
-- D) Ozaki, Ritsuko, and John Rees Lewis. ‘Boundaries and the Meaning of Social Space: A Study of Japanese House Plans’. *Environment and Planning D: Society and Space 24*, no. 1 (1 February 2006): 91–104. https://doi.org/10.1068/d62j.
-- E) Yamaguchi, Kiyoko. “The New ‘American’ Houses in the Colonial Philippines and the Rise of the Urban Filipino Elite.” *Philippine Studies* 54, no. 3 (January 1, 2006): 412–51. [jstor](http://www.jstor.org/stable/42633879?seq=1#page_scan_tab_contents)
-- F) Timothy Mitchell *Colonising Egypt* University of California Press. Ch 2 "Enframing"
+- D) Ozaki, Ritsuko, and John Rees Lewis. ‘Boundaries and the Meaning of Social Space: A Study of Japanese House Plans’. *Environment and Planning D: Society and Space 24*, no. 1 (1 February 2006): 91–104. [DOI](https://doi.org/10.1068/d62j).
+- E) Yamaguchi, Kiyoko. “The New ‘American’ Houses in the Colonial Philippines and the Rise of the Urban Filipino Elite.” *Philippine Studies* 54, no. 3 (January 1, 2006): 412–51. [Jstor](http://www.jstor.org/stable/42633879?seq=1#page_scan_tab_contents)
+- F) Timothy Mitchell *Colonising Egypt* University of California Press. Ch 2 "Enframing" [Ebook](http://library.st-andrews.ac.uk/record=b3285281~S5)
 
 **Further Reading**
 
@@ -503,6 +524,8 @@ Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930*
 
 \pagebreak
 
+<a name="w10"></a>
+
 ## Week 10 - Housing, Neighbourhood, and Suburb
 
 We continue the exploration of the home and broaden it to consider the context of the home in its neighbourhood and emerging suburbian setting. The main focus will be on postwar Japanese housing with a smaller segment dedicated to discussion of the Chinese "shequ" or "residential community" structure.
@@ -514,23 +537,23 @@ We continue the exploration of the home and broaden it to consider the context o
 
 **Required Secondary Reading**
 
-Ann Waswo *Housing in Postwar Japan* Ch 2 pp5-38 Ch 4 62-85
+Ann Waswo *Housing in Postwar Japan* Ch 2 pp5-38 Ch 4 62-85 [Ebook](http://library.st-andrews.ac.uk/record=b3186775~S5)
 
-Bray, David. ‘Designing to Govern: Space and Power in Two Wuhan Communities’. *Built Environment* (1978-) 34, no. 4 (2008): 392–407.
+Bray, David. ‘Designing to Govern: Space and Power in Two Wuhan Communities’. *Built Environment* (1978-) 34, no. 4 (2008): 392–407. [Jstor](https://www.jstor.org/stable/23289849)
 
-Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Ch 7 "Culture Villages: Inscribing Cosmopolitanism in the Landscape" [ebook](http://hdl.handle.net/2027/heb.05898)
+Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Ch 7 "Culture Villages: Inscribing Cosmopolitanism in the Landscape" [Ebook](http://library.st-andrews.ac.uk/record=b1941202~S5)
 
 **Elective Reading Categories**
 
-- A) Hanchao Lu *Beyond the Neon Lights: Everyday Shanghai in the Early Twentieth Century* Ch 4 The Homes of the Little Urbanites, pp138-185
-- B) Lily Kong and Brenda S. A. Yeoh, The Politics of Landscapes in Singapore: Constructions of ‘Nation’ (Syracuse University Press, 2003).
+- A) Hanchao Lu *Beyond the Neon Lights: Everyday Shanghai in the Early Twentieth Century* Ch 4 The Homes of the Little Urbanites, pp138-185 [Ebook](http://library.st-andrews.ac.uk/record=b3286132~S5)
+- B) Lily Kong and Brenda S. A. Yeoh, *The Politics of Landscapes in Singapore: Constructions of ‘Nation’* (Syracuse University Press, 2003). (Library)
     - Ch 6 Housing the People, Building a "Nation" pp94-117
-- C) Cars, Conduits, and Kampongs: The Modernization of the Indonesian City, 1920-1960 (BRILL, 2014).
+- C) *Cars, Conduits, and Kampongs: The Modernization of the Indonesian City, 1920-1960* (BRILL, 2014). [Open Access](https://brill.com/view/title/26707)
     - Ch 6 Kotabaru and the Housing Estate as Bulwark against the Indigenization of Colonial Java pp152-170 *or* Ch 7 Public Housing in Semarang and the Modernization of Kampongs, 1930-1960 pp172-190
-- D) Marc Askew, Bangkok: Place, Practice and Representation (Routledge, 2002). 
-    - Ch 6 A Place in the Suburbs: Making a Neighbourhood in the Middle-Class Housing Estate pp170-193
-- E) Nikhil Rao *House, But No Garden: Apartment Living in Bombay's Suburbs, 1898-1964*. Ch 3 The Rise of the Bombay Flat 
-- F) Freek Colombijn, *Under Construction: The Politics of Urban Space and Housing during the Decolonization of Indonesia, 1930-1960* (BRILL, 2013). Ch 4 Life in the Kampongs pp103-140 *or* Ch 6 Housing in the Kampong pp181-227
+- D) Marc Askew, *Bangkok: Place, Practice and Representation* (Routledge, 2002). 
+    - Ch 6 A Place in the Suburbs: Making a Neighbourhood in the Middle-Class Housing Estate pp170-193 (See Files)
+- E) Nikhil Rao *House, But No Garden: Apartment Living in Bombay's Suburbs, 1898-1964*. Ch 3 The Rise of the Bombay Flat (Library)
+- F) Freek Colombijn, *Under Construction: The Politics of Urban Space and Housing during the Decolonization of Indonesia, 1930-1960* (BRILL, 2013). Ch 4 Life in the Kampongs pp103-140 *or* Ch 6 Housing in the Kampong pp181-227 (Library)
 
 **Further reading:**
 
@@ -582,6 +605,8 @@ Warner, Sam Bass. *Streetcar Suburbs: The Process of Growth in Boston, 1870-1900
 
 \pagebreak
 
+<a name="w11"></a>
+
 ## Week 11 - Parks, Gardens, and Squares
 
 Our focus this week is on garden and park spaces. We will especially focus on the history of the 'zen' garden, but also the spatial history of public parks and squares more generally.
@@ -600,12 +625,12 @@ Tagsold, Christian. *Spaces in Translation: Japanese Gardens and the West. Penn 
 
 **Elective Reading Categories:**
 
-- A) Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Introduction and Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=1219559)
-- B) Allen, Joseph R. “Taipei Park: Signs of Occupation.” *The Journal of Asian Studies* 66, no. 1 (February 1, 2007): 159–99. https://doi.org/10.2307/20203109. [jstor](https://www.jstor.org/stable/20203109)
-- C) Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017. Chapter 5 "The Royal Field (Sanam Luang): Bangkok’s Polysemic Urban Palimpsest" [ebook](http://dx.doi.org/10.5790/hongkong/9789888208333.001.0001)
-- D) Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017. Ch 5 The Royal Field (Sanam Luang): Bangkok’s Polysemic Urban Palimpsest
-- E) Mingzheng Shi, ‘From Imperial Gardens to Public Parks: The Transformation of Urban Space in Early Twentieth-Century Beijing’, Modern China 24, no. 3 (1998): 219–54.
-- F) Lee, Haiyan. “The Ruins of Yuanmingyuan Or, How to Enjoy a National Wound.” *Modern China* 35, no. 2 (March 1, 2009): 155–90. https://doi.org/10.1177/0097700408326911. [jstor](https://www.jstor.org/stable/27746912)
+- A) Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Introduction and Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [Ebook](http://library.st-andrews.ac.uk/record=b2048036~S5)
+- B) Allen, Joseph R. “Taipei Park: Signs of Occupation.” *The Journal of Asian Studies* 66, no. 1 (February 1, 2007): 159–99. https://doi.org/10.2307/20203109. [Jstor](https://www.jstor.org/stable/20203109)
+- C) Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017. Chapter 5 "The Royal Field (Sanam Luang): Bangkok’s Polysemic Urban Palimpsest" [Ebook](http://library.st-andrews.ac.uk/record=b2452271~S5)
+- D) Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017. Ch 5 The Royal Field (Sanam Luang): Bangkok’s Polysemic Urban Palimpsest [Ebook](http://library.st-andrews.ac.uk/record=b2452271~S5)
+- E) Mingzheng Shi, ‘From Imperial Gardens to Public Parks: The Transformation of Urban Space in Early Twentieth-Century Beijing’, *Modern China* 24, no. 3 (1998): 219–54. [Jstor](https://www.jstor.org/stable/189404)
+- F) Lee, Haiyan. “The Ruins of Yuanmingyuan Or, How to Enjoy a National Wound.” *Modern China* 35, no. 2 (March 1, 2009): 155–90. [Jstor](https://www.jstor.org/stable/27746912)
 - G) Tagsold, Christian. *Spaces in Translation: Japanese Gardens and the West*. Penn Studies in Landscape Architecture. Philadelphia: University of Pennsylvania Press, 2017. Ch 6-7. [Ebook](http://library.st-andrews.ac.uk/record=b2877598~S5)
 
 **Further Reading**
@@ -635,3 +660,9 @@ Tschumi, Christian. *Mirei Shigemori - Rebel in the Garden: Modern Japanese Land
 Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. University of Chicago Press, 2011. (P)
 
 \pagebreak
+
+## Spring Semester 
+
+These readings are being updated and will be released later, but for reference, you may see a full list of the readings from the last academic year by downloading the old handbook here:
+
+**[2021-2022 Old Handbook PDF](https://github.com/kmlawson/mo4971-from-city-to-home/raw/1f197e71abc54b6c6b54aed1c6ac65134073bbe0/handbook.pdf)**
