@@ -2,8 +2,6 @@
 
 # Fall Semester
 
-Jump to: [W1](#w1) | [W2](#w2) | [W3](#w3) | [W4](#w4) | [W5](#w5) | [W6](#w6) | [W7](#w7) | [W8](#w8) | [W9](#w9) | [W10](#w10) | [W11](#w11)
-
 <a name="w1"></a>
 
 ## Week 1 - Introduction: Spaces of History
@@ -30,7 +28,7 @@ Shuishan Yu, “Redefining the Axis of Beijing Revolution and Nostalgia in the P
 
 Jeremy E. Taylor, “The Bund: Littoral Space of Empire in the Treaty Ports of East Asia,” *Social History* 27, no. 2 (May 1, 2002): 125–42. [Jstor](https://www.jstor.org/stable/4286873)
 
-Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [ebook](http://library.st-andrews.ac.uk/record=b2048036~S5)
+Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [Ebook](http://library.st-andrews.ac.uk/record=b2048036~S5)
 
 **Optional Background Reading on East and Southeast Asia**
 
@@ -399,7 +397,7 @@ Riccardo Bavaj, Konrad Lawson, Bernhard Struck eds. *Doing Spatial History* Ch 1
 - Clayton, Daniel. ‘Tropical Geography’. In *International Encyclopedia of Geography: People, the Earth, Environment and Technology* edited by Douglas Richardson, Noel Castree, Michael F. Goodchild, Audrey Kobayashi, Weidong Liu, and Richard A. Marston, 1–3. Oxford, UK: John Wiley & Sons, Ltd, 2017. [DOI](https://doi.org/10.1002/9781118786352.wbieg0726)
 - Zabielskis, Peter, Seng Guan Yeoh, Kat Fatland. *Penang and Its Networks of Knowledge* Ch 5 Tropical Picturesque
 - Stepan, Nancy, and Nancy Leys Stepan. *Picturing Tropical Nature* Reaktion Books, 2001. (P)
-- Driver, Felix, and Luciana Martins. *Tropical Visions in an Age of Empire* University of Chicago Press, 2005. (P) [ebook](http://library.st-andrews.ac.uk/record=b2059153~S5)
+- Driver, Felix, and Luciana Martins. *Tropical Visions in an Age of Empire* University of Chicago Press, 2005. (P) [Ebook](http://library.st-andrews.ac.uk/record=b2059153~S5)
 - Bowd, Gavin, and Daniel Clayton. *Impure and Worldly Geography: Pierre Gourou and Tropicality* Routledge, 2019. (P)
 - Jennings, Eric T. *Curing the Colonizers: Hydrotherapy, Climatology, and French Colonial Spas*  (P)
 - Kennedy, Dane Keith. *The Magic Mountains: Hill Stations and the British Raj* Berkeley; London: University of California Press, 1996. (P)
@@ -432,21 +430,21 @@ Riccardo Bavaj, Konrad Lawson, Bernhard Struck eds. *Doing Spatial History* Ch 1
 
 **Further Reading:**
 
-- Anderson, Warwick. *Colonial Pathologies: American Tropical Medicine, Race, and Hygiene in the Philippines*. [ebook](http://library.st-andrews.ac.uk/record=b3132198~S5)
+- Anderson, Warwick. *Colonial Pathologies: American Tropical Medicine, Race, and Hygiene in the Philippines*. [Ebook](http://library.st-andrews.ac.uk/record=b3132198~S5)
 - Shin Dongwon, ‘Hygiene, Medicine, and Modernity in Korea, 1876–1910’, *East Asian Science, Technology and Society: An International Journal* 3, no. 1 (1 March 2009): 5–26, [DOI](https://doi.org/10.1215/s12280-008-9067-0).
 - Park Yunjae, ‘Sanitizing Korea: Anti-Cholera Activities of the Police in Early Colonial Korea’, *Seoul Journal of Corean Studies* 23 (1 December 2010): 151–71.
 - Vann, Michael G. *The Great Hanoi Rat Hunt: Empire, Disease, and Modernity in French Colonial Vietnam* Oxford University Press, 2019.
 - Hoshino, Takanori. “Transition to Municipal Management: Cleaning Human Waste in Tokyo in the Modern Era.” *Japan Review*, no. 20 (January 1, 2008): 189–202.
-- Ruth Rogaski, *Hygienic Modernity: Meanings of Health and Disease in Treaty-Port China* [ebook](http://library.st-andrews.ac.uk/record=b2068521~S5) (Berkeley: University of California Press, 2004) (P)
+- Ruth Rogaski, *Hygienic Modernity: Meanings of Health and Disease in Treaty-Port China* [Ebook](http://library.st-andrews.ac.uk/record=b2068521~S5) (Berkeley: University of California Press, 2004) (P)
 - Ma, Shu-Yun. “The Making and Remaking of a Chinese Hospital in Hong Kong.” *Modern Asian Studies* 45, no. 5 (September 2011): 1313–36. doi:10.1017/S0026749X10000107.
-- Siniawer, Eiko Maruko *Waste: Consuming Postwar Japan* [ebook](http://library.st-andrews.ac.uk/record=b3094432~S5) (2018) (P)
+- Siniawer, Eiko Maruko *Waste: Consuming Postwar Japan* [Ebook](http://library.st-andrews.ac.uk/record=b3094432~S5) (2018) (P)
 - Bu, Liping, Darwin H. Stapleton, and Ka-Che Yip. *Science, Public Health and the State in Modern Asia*. Routledge, 2012.
-- Haynes, Douglas M. *Imperial Medicine: Patrick Manson and the Conquest of Tropical Disease*. [ebook](http://library.st-andrews.ac.uk/record=b3077155~S5) University of Pennsylvania Press, 2011. (P)
+- Haynes, Douglas M. *Imperial Medicine: Patrick Manson and the Conquest of Tropical Disease*. [Ebook](http://library.st-andrews.ac.uk/record=b3077155~S5) University of Pennsylvania Press, 2011. (P)
 - Kim, Jeong-Ran. “The Borderline of ‘Empire’: Japanese Maritime Quarantine in Busan c.1876–1910.” *Medical History* 57, no. 02 (April 2013): 226–48. doi:10.1017/mdh.2012.104.
 - Liang, Qizi, Angela Ki Che Leung, and Charlotte Furth. *Health and Hygiene in Chinese East Asia: Policies and Publics in the Long Twentieth Century*. Duke University Press, 2010.
 - Macpherson, Kerrie L. *A Wilderness of Marshes: The Origins of Public Health in Shanghai, 1843-1893*. Lexington Books, 1987. (P)
 - Rawcliffe, Carole. *Urban Bodies: Communal Health in Late Medieval English Towns and Cities*. 1 edition. Woodbridge: Boydell Press, 2013. (P)
-- Yip, Ka-che. *Disease, Colonialism, and the State: Malaria in Modern East Asian History*. Hong Kong University Press, 2009. [ebook](http://library.st-andrews.ac.uk/record=b2071624~S5) (P)
+- Yip, Ka-che. *Disease, Colonialism, and the State: Malaria in Modern East Asian History*. Hong Kong University Press, 2009. [Ebook](http://library.st-andrews.ac.uk/record=b2071624~S5) (P)
 - Arnold, David. *Imperial Medicine and Indigenous Societies*
 - Prasad, Srirupa. *Cultural Politics of Hygiene in India, 1890-1940: Contagions of Feeling*
 - Peckham, Robert Shannan, and David M Pomfret. *Imperial Contagions: Medicine, Hygiene, and Cultures of Planning in Asia*
@@ -661,8 +659,154 @@ Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. University of Chic
 
 \pagebreak
 
-## Spring Semester 
+# Spring Semester 
 
-These readings are being updated and will be released later, but for reference, you may see a full list of the readings from the last academic year by downloading the old handbook here:
+These readings are being updated and will be released in Week 1, but for reference, you may see a full list of the readings from the last academic year by downloading the old handbook here:
 
 **[2021-2022 Old Handbook PDF](https://github.com/kmlawson/mo4971-from-city-to-home/raw/1f197e71abc54b6c6b54aed1c6ac65134073bbe0/handbook.pdf)**
+
+<a name="sw1"></a>
+
+## Week 1 - Mobility and Transportation
+
+**Required Reading:**
+
+- Cresswell, Tim. *Place: An Introduction*. 2nd edition. Ch 3 ‘Place in a Mobile World’ pp62-87.
+
+- Köll, Elisabeth. *Railroads and the Transformation of China*. Harvard University Press, 2019. [Ebook](http://library.st-andrews.ac.uk/record=b3305808~S5) Ch 4 Moving People, Transmitting Ideas
+- Freedman, Alisa. *Tokyo in Transit: Japanese Culture on the Rails and Road*. [Ebook](http://library.st-andrews.ac.uk/record=b2897117~S5) Introduction and Ch 2
+ 
+**Elective Reading:**
+
+- A) Lewis, Su Lin *Cities in Motion* [Ebook](http://library.st-andrews.ac.uk/record=b2444361~S5) Ch 2 Asian Port-Cities in a Turbulent Age only: Transport: Cities on the Move pp79-83
+- B) Abel, Jessamyn. *Dream Super-Express: A Cultural History of the World’s First Bullet Train* Stanford University Press, 2022.  Ch 2 Reconstructing the Tōkaidō [Ebook](http://library.st-andrews.ac.uk/record=b3208442~S5)
+- C) Grunow, Tristan R. ‘Pebbles of Progress: Streets and Urban Modernity in Early Meiji Tokyo’. Japan Forum 0, no. 0 (13 November 2019): 1–26. [DOI](https://doi.org/10.1080/09555803.2019.1676287)
+- D) *Cars, Conduits, and Kampongs: The Modernization of the Indonesian City, 1920-1960* [Ebook](http://library.st-andrews.ac.uk/record=b3201333~S5)  Ch 10 Moving at a Different Velocity: The Modernization of Transportation and Social Differentiation in Surabaya in the 1920s pp251-269
+- E) Madeleine Yue Dong, *Republican Beijing: The City and Its Histories* Ch 2 The City and its People - Local Interests and Development: The Streetcar System pp66-71 [Ebook](http://ezproxy.st-andrews.ac.uk/login?url=http://dx.doi.org/10.1525/california/9780520230507.001.0001)
+- F) Lee, Anru, ‘Subways as a Space of Cultural Intimacy: The Mass Rapid Transit System in Taipei, Taiwan’ in *The China Journal* No.58 (Jul., 2007) [Jstor](https://www.jstor.org/stable/20066306)
+- G) Frasch, Tilman. ‘Tracks in the City: Technology, Mobility and Society in Colonial Rangoon and Singapore’. *Modern Asian Studies* 46, no. 1 (2012): 97–118. [DOI](https://doi.org/10.1017/S0026749X11000588)
+- H) Nakamura, Naofumi. “Railway Systems and Time Consciousness in Modern Japan.” *Japan Review*, no. 14 (2002): 13–38.
+- I) *Modern Girls on the Go: Gender, Mobility, and Labor in Japan* edited by Alisa Freedman, Laura Miller, and Christine R. Yano [Ebook](http://library.st-andrews.ac.uk/record=b3159349~S5) Ch 5 "Flying Geisha": Japanese Stewardesses with Pan American World Airways pp85-106
+- J) *Modern Girls on the Go: Gender, Mobility, and Labor in Japan* edited by Alisa Freedman, Laura Miller, and Christine R. Yano [Ebook](http://library.st-andrews.ac.uk/record=b3159349~S5) Ch 6 Bus Guides Tour National Landscapes, Pop Culture, and Youth Fantasies pp107-130
+- K) Fisch, Michael. *An Anthropology of the Machine: Tokyo’s Commuter Train Network*. University of Chicago Press, 2018. Introduction + Ch 1. [Ebook](http://library.st-andrews.ac.uk/record=b2721535~S5)
+
+
+**Further Reading:**
+
+Cresswell, Timothy. *On the Move: Mobility in the Modern Western World*. Routledge, 2012.
+
+Schivelbusch, Wolfgang. *The Railway Journey: The Industrialization of Time and Space in the Nineteenth Century*. 1 edition. University of California Press, 2014.
+
+Büscher, Monika, John Urry, and Katian Witchger. *Mobile Methods*. Routledge, 2010.
+
+Cresswell, Tim. *Gendered Mobilities*. Routledge, 2016.
+
+Cresswell, Tim, and Peter Merriman. *Geographies of Mobilities: Practices, Spaces, Subjects*. Farnham, Surrey: Ashgate, 2013.
+
+Kwan, Mei-Po, and Tim Schwanen. *Geographies of Mobility: Recent Advances in Theory and Method*. Routledge, 2018.
+
+Larsen, Jonas, and John Urry. *Mobilities, Networks, Geographies*. Routledge, 2016.
+
+Merriman, Peter. *Mobility, Space, and Culture*. Routledge, 2012.
+
+Wright, Tim. “Shanghai Imperialists versus Rickshaw Racketeers: The Defeat of the 1934 Rickshaw Reforms.” *Modern China* 17, no. 1 (January 1, 1991): 76–111. [JSTOR](https://www.jstor.org/stable/189252)
+
+Traganou, Jilly. 2004. *The Tōkaidō Road: Traveling and Representation in Edo and Meiji Japan* (Library) Ch 3 Traveling Practices and Literary Tōkaidō + Ch 4 Performance, Visuality and Imagination at the Tōkaidō's micro-scale 
+
+Warren, Jim. “The Singapore Rickshaw Pullers: The Social Organization of a Coolie Occupation, 1880-1940.” *Journal of Southeast Asian Studies* 16, no. 1 (March 1, 1985): 1–15.
+
+Dick, H. W., and Peter James Rimmer. *Cities, Transport, and Communications: The Integration of Southeast Asia Since 1850*. Houndmills, Basingstoke, Hampshire ; New York: Palgrave Macmillan, 2003. [Ebook](http://library.st-andrews.ac.uk/record=b1801818~S5)
+
+Ericson, Steven J. *The Sound of the Whistle: Railroads and the State in Meiji Japan*. Harvard Univ Asia Center, 1996 (P)
+
+Fraser, Benjamin, and Steven D. Spalding. *Trains, Culture, and Mobility: Riding the Rails*. Lexington Books, 2011.
+
+Schivelbusch, Wolfgang. *The Railway Journey: The Industrialization of Time and Space in the Nineteenth Century*. 1 edition. University of California Press, 2014.
+
+White, Richard. *Railroaded: The Transcontinentals and the Making of Modern America*. W. W. Norton & Company, 2011.
+
+Dick, Howard, and Peter J. Rimmer. “River Cities: Bangkok, Rangoon and Saigon.” In *Cities, Transport and Communications: The Integration of Southeast Asia since 1850*, edited by Howard Dick and Peter J. Rimmer, 289–318. 
+
+Francis, Ric, and Colin Ganley. *Penang Trams, Trolleybuses & Railways: Municipal Transport History, 1889s-1963*. Penang: Areca Books, 2006.
+
+McKay, John P., and John P. Mac Kay. *Tramways and Trolleys: The Rise of Urban Mass Transport in Europe*. Princeton University Press, 1976.
+
+Warner, Sam Bass. *Streetcar Suburbs: The Process of Growth in Boston, 1870-1900*. 2nd edition. Cambridge, Mass.: Harvard University Press, 1978.
+
+Barnett, Martin. *Tramlines: The Story of the Hong Kong Tramway System* South China Morning Post, 1984.
+
+York, F. W., and A. R. Phillips. *Singapore: A History of Its Trams, Trolleybuses & Buses* Vol. I: 1880’s to 1960’s. Croydon: DTS Publishing Ltd, 1996.
+
+\pagebreak
+
+<a name="sw2"></a>
+
+## Week 2 - Guest Seminar with Yee, Sangwook on the Museum in East Asia; Exhibitions
+
+Please read closely and be ready to discuss with the author as guest:
+
+Yee, Sangwook "Museum as a Proper Noun: Representation of the Modern Museum in East Asian Travel Writings in the Late Nineteenth Century" Article Manuscript - will be emailed.
+
+Required Reading:
+
+Todd Henry, *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-45*
+Ch 3 ‘Material Assimilation: Colonial Expositions on the Kyŏngbok Palace Grounds’ [Ebook](http://library.st-andrews.ac.uk/record=b2052230~S5)
+ 
+Mitchell, Timothy. ‘The World as Exhibition’. *Comparative Studies in Society and History* 31, no. 2 (April 1989): 217–36. [DOI](https://doi.org/10.1017/S0010417500015802)
+ 
+Count Hirokichi Mutsu, “The Japan-British Exhibition, 1910,” *Journal of the Royal Society of Arts* 58, no. 2983 (January 21, 1910): 232–43.  [JSTOR](https://www.jstor.org/stable/41338990)
+
+**Elective Reading**
+ 
+(if you would like to give a presentation, feel free to choose any of the texts below)
+ 
+- B) Peterson, William. *Asian Self-Representation at World’s Fairs*. Amsterdam University Press, 2020.  [Ebook](http://library.st-andrews.ac.uk/record=b3117924~S5) Introduction and Ch 2.
+- C) Coté, Joost. ‘Staging Modernity: The Semarang International Colonial Exhibition, 1914’. *Review of Indonesian and Malaysian Affairs* 40, no. 1 (1 January 2006): 1–44.
+- D) Hotta-Lister, A. *The Japan-British Exhibition of 1910: Gateway to the Island Empire of the East*. 1 edition. Richmond: Routledge, 1999. Introduction + Ch 2-3, 5 [Ebook](http://library.st-andrews.ac.uk/record=b2709522~S5)
+- E) Peterson, William. Asian Self-Representation at World’s Fairs. Amsterdam University Press, 2020. Three chapters from among 3, 4, 6, 7, 8, 9 [Ebook](http://library.st-andrews.ac.uk/record=b3117924~S5)
+- F) Raizman, David, and Ethan Robey. *Expanding Nationalisms at World’s Fairs: Identity, Diversity, and Exchange, 1851-1915*. Routledge, 2017. Introduction + Ch 1, 9 [Ebook](http://library.st-andrews.ac.uk/record=b3117350~S5)
+- G) Rydell, Robert W. *All the World’s a Fair: Visions of Empire at American International Expositions, 1876-1916* Introduction + Ch 2, 4, 5 (Hard copy in Library)
+- H) Kal, Hong. *Aesthetic Constructions of Korean Nationalism: Spectacle, Politics and History*. Routledge, 2011. (Hard Copy in Library) Introduction + Ch 1-2
+- I) Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*. Duke University Press, 2013. [Ebook](http://library.st-andrews.ac.uk/record=b3009704~S5) Ch 2 Korea’s Participation in Chicago World Fair +  Kari Shepherdson-Scott, ‘Conflicting Politics and Contesting Borders: Exhibiting (Japanese) Manchuria at the Chicago World’s Fair, 1933–34’, *The Journal of Asian Studies* 74, no. 03 (August 2015): 539–64, [DOI](https://doi.org/10.1017/S0021911815000558)
+
+**Further Reading**
+
+Alan Tansman ed. *The Culture of Japanese Fascism*. De Gruyter: Duke University Press, 2009. [Ebook](http://library.st-andrews.ac.uk/record=b3203944~S5) Ch 11 Expo Fascism?: Ideology, Representation, Economy
+
+Hanscom, Christopher P., and Dennis Washburn, eds. *The Affect of Difference: Representations of Race in East Asian Empire*. De Gruyter: University of Hawaii Press, 2016. [Ebook](http://library.st-andrews.ac.uk/record=b3081271~S5)
+
+Coletta, Cristina Della. *World’s Fairs Italian-Style: The Great Expositions in Turin and Their Narratives, 1860-1915*. University of Toronto Press, 2006.
+
+Filipová, Marta. *Cultures of International Exhibitions 1840-1940: Great Exhibitions in the Margins*. Routledge, 2017.
+
+Geppert, A. *Fleeting Cities: Imperial Expositions in Fin-de-Siècle Europe*. Springer, 2010.
+
+Greenhalgh, Paul. *Ephemeral Vistas: The Expositions Universelles, Great Exhibitions and World’s Fairs, 1851-1939*, 1991.
+
+Kal, Hong. “Modeling the West, Returning to Asia: Shifting Politics of Representation in Japanese Colonial Expositions in Korea.” *Comparative Studies in Society and History* 47, no. 3 (2005): 507–31.
+
+Lockyer, Angus. *Japan at the Exhibition, 1867-1970*. Stanford University, 2000.
+
+Maloney, Cathy Jean. *World’s Fair Gardens: Shaping American Landscapes*. University of Virginia Press, 2012.
+
+Molella, Arthur P., and Scott Gabriel Knowles. *World’s Fairs in the Cold War: Science, Technology, and the Culture of Progress*. University of Pittsburgh Press, 2019.
+
+Park Young-sin. “Making ‘Modern’ Korean Subjects: The Chosŏn Industrial Exhibition of 1915" *Journal of Asian Humanities at Kyushu University*. Accessed July 19, 2021. [DOI](https://doi.org/10.5109/4377702)
+
+Raizman, David, and Ethan Robey. *Expanding Nationalisms at World’s Fairs: Identity, Diversity, and Exchange, 1851-1915*. Routledge, 2017.
+
+Rydell, Robert W. *All the World’s a Fair: Visions of Empire at American International Expositions, 1876-1916*. University of Chicago Press, 2013.
+
+———. *World of Fairs: The Century-of-Progress Expositions*. University of Chicago Press, 1993.
+
+Rydell, Robert W., and Laura Burd Schiavo. *Designing Tomorrow: America’s World’s Fairs of the 1930s*. Yale University Press, 2010.
+
+Tenorio-Trillo, Mauricio. *Mexico at the World’s Fairs: Crafting a Modern Nation*. Univ of California Press, 2018.
+
+Wesemael, Pieter van. *Architecture of Instruction and Delight: A Socio-Historical Analysis of World Exhibitions as a Didactic Phenomenon* (1798-1851-1970)
+
+Wright, Dr Jonathan Jeffrey, and Dr Diarmid A. Finnegan. *Spaces of Global Knowledge: Exhibition, Encounter and Exchange in an Age of Empire*. Ashgate Publishing, Ltd., 2015.
+
+Huang Shumei and Lee Hyun Kyung *Heritage, Memory, and Punishment* [Ebook](http://library.st-andrews.ac.uk/record=b3186776~S5)
+
+
