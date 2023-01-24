@@ -932,3 +932,5 @@ Gao, James Zheng. *The Communist Takeover of Hangzhou: The Transformation of Cit
 Henriot, Christian, and Wen-Hsin Yeh, eds. *In the Shadow of the Rising Sun: Shanghai Under Japanese Occupation*. New York: Cambridge University Press, 2004. 
 
 Yick, Joseph K. S. *Making Urban Revolution in China: The CCP-GMD Struggle for Beiping-Tianjin, 1945-1949*. M.E. Sharpe, 1995.
+
+
