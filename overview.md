@@ -27,7 +27,7 @@ Week 11 - Parks and Gardens
 Week 1 - Space and Mobility  
 Week 2 - Guest Seminar Yee, Sangwook : Museums and Exhibitions  
 Week 3 - The Gaze of the Tourist  
-Week 4 - Social Spaces
+Week 4 - Social Spaces  
 Week 5 - Spaces of Consumption  
 Week 6 - Messy Urbanism  
 Week 7 - Urban Space, Order, and Politics  
