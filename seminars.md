@@ -721,8 +721,6 @@ Ericson, Steven J. *The Sound of the Whistle: Railroads and the State in Meiji J
 
 Fraser, Benjamin, and Steven D. Spalding. *Trains, Culture, and Mobility: Riding the Rails*. Lexington Books, 2011.
 
-Schivelbusch, Wolfgang. *The Railway Journey: The Industrialization of Time and Space in the Nineteenth Century*. 1 edition. University of California Press, 2014.
-
 White, Richard. *Railroaded: The Transcontinentals and the Making of Modern America*. W. W. Norton & Company, 2011.
 
 Dick, Howard, and Peter J. Rimmer. “River Cities: Bangkok, Rangoon and Saigon.” In *Cities, Transport and Communications: The Integration of Southeast Asia since 1850*, edited by Howard Dick and Peter J. Rimmer, 289–318. 
@@ -785,15 +783,25 @@ Greenhalgh, Paul. *Ephemeral Vistas: The Expositions Universelles, Great Exhibit
 
 Kal, Hong. “Modeling the West, Returning to Asia: Shifting Politics of Representation in Japanese Colonial Expositions in Korea.” *Comparative Studies in Society and History* 47, no. 3 (2005): 507–31.
 
-Lockyer, Angus. *Japan at the Exhibition, 1867-1970*. Stanford University, 2000.
+Lockyer, Angus. *Japan at the Exhibition, 1867-1970*. PhD Dissertation, Stanford University, 2000.
 
 Maloney, Cathy Jean. *World’s Fair Gardens: Shaping American Landscapes*. University of Virginia Press, 2012.
 
-Molella, Arthur P., and Scott Gabriel Knowles. *World’s Fairs in the Cold War: Science, Technology, and the Culture of Progress*. University of Pittsburgh Press, 2019.
+Molella, Arthur P., and Scott Gabriel Knowles. *World’s Fairs in the Cold War: Science, Technology, and the Culture of Progress*. University of Pittsburgh Press, 2019. [Ebook](http://library.st-andrews.ac.uk/record=b3124073~S5)
+
+Lawn, Martin. *Modelling the Future: Exhibitions and the Materiality of Education.* Symposium Books Ltd, 2009.
+
+Kaiser, Wolfram. ‘The Great Derby Race: Strategies of Cultural Representation at Nineteenth-Century World Exhibitions’. In Chapter 2. The Great Derby Race: Strategies of Cultural Representation at Nineteenth-Century World Exhibitions, 43–59. Berghahn Books, 2003. [Ebook](http://library.st-andrews.ac.uk/record=b3295972~S5)
+
+Boone, M. Elizabeth. *“The Spanish Element in Our Nationality”: Spain and America at the World’s Fairs and Centennial Celebrations, 1876–1915.* Electronic book. De Gruyter: Penn State University Press, 2021.
+
+Busch, Jason T., Catherine Futter, Regina Lee Blaszczyk, Stephen Harrison, Karin A. Jones, Martin Levy, Dawn Reid, et al. *Inventing the Modern World: Decorative Arts at the World’s Fairs, 1851-1939*. Pittsburgh, Pa. : Kansas City, Mo. : New York: Carnegie Museum of Art ; Nelson-Atkins Museum of Art ; Skira Rizzoli, 2012.
+
+Kargon, Robert H., Karen Fiss, Morris Low, and Arthur P. Molella. *World’s Fairs on the Eve of War: Science, Technology, & Modernity, 1937-1942.* Pittsburgh, Pennsylvania: University of Pittsburgh Press, 2015.
 
 Park Young-sin. “Making ‘Modern’ Korean Subjects: The Chosŏn Industrial Exhibition of 1915" *Journal of Asian Humanities at Kyushu University*. Accessed July 19, 2021. [DOI](https://doi.org/10.5109/4377702)
 
-Raizman, David, and Ethan Robey. *Expanding Nationalisms at World’s Fairs: Identity, Diversity, and Exchange, 1851-1915*. Routledge, 2017.
+Raizman, David, and Ethan Robey. *Expanding Nationalisms at World’s Fairs: Identity, Diversity, and Exchange, 1851-1915*. Routledge, 2017. [Ebook](http://library.st-andrews.ac.uk/record=b3117350~S5)
 
 Rydell, Robert W. *All the World’s a Fair: Visions of Empire at American International Expositions, 1876-1916*. University of Chicago Press, 2013.
 
@@ -849,7 +857,15 @@ F) Kendall, Laurel, ed. *Consuming Korean Tradition in Early and Late Modernity:
 
 G) Pratt, Mary Louise. *Imperial Eyes: Travel Writing and Transculturation*. Routledge, 2010. (P) [Ebook](http://library.st-andrews.ac.uk/record=b3293351~S5) Introduction and Ch 3 Narrating the anti-conquest
 
+H) Jenks, Chris ed. *Visual Culture* (1995) Ch 1 The Centrality of the Eye Ch 8 Watching Your Step
+
+I) Fogel, Joshua A. *Traditions of East Asian Travel*. Berghahn Books, 2005. [Ebook](http://library.st-andrews.ac.uk/record=b3301038~S5)
+
+J) Fogel, Joshua A. *The Literature of Travel in the Japanese Rediscovery of China, 1862-1945*. Stanford, California: Stanford University Press, 1996. Introduction and Ch 3
+
 **Further Reading**
+
+Picard, Michel. ‘Cultural Heritage and Tourist Capital: Cultural Tourism in Bali’. In *International Tourism: Identity and Change*. SAGE, 1995.
 
 Funck, Carolin, and Malcolm Cooper. *Japanese Tourism: Spaces, Places and Structures*. (2015). [Ebook](http://library.st-andrews.ac.uk/record=b3301194~S5)
 
@@ -863,15 +879,15 @@ Scranton, Philip and Janet F. Davidson. *The Business of Tourism: Place, Faith, 
 
 Joseph De Sapio *Modernity and Meaning in Victorian London Tourist Views of the Imperial Capital* (Basingstoke: Palgrave Macmillan, 2014).
 
-Mo, Yajun. “Itineraries for a Republic: Tourism and Travel Culture in Modern China, 1866--1954.” Ph.D., University of California, Santa Cruz, 2011 (P)
+Picard, David, and Mike Robinson. *The Framed World: Tourism, Tourists and Photography.* Routledge, 2016. [Ebook](http://library.st-andrews.ac.uk/record=b3297550~S5)
 
 Barclay, Paul D.  “Peddling Postcards and Selling Empire: Image-Making in Taiwan under Japanese Colonial Rule,” *Japanese Studies* 30, no. 1 (May 1, 2010): 81–110, [DOI](https://doi.org/10.1080/10371391003639138).
 
 Nenzi, Laura Nenz Detto. *Excursions in Identity: Travel and the Intersection of Place, Gender, and Status in Edo Japan*. University of Hawaii Press, 2008. (P)
 
-Akiko, Yosano. *Travels in Manchuria and Mongolia*. Translated by Joshua A. Fogel. Columbia University Press, 2001. 
+Akiko, Yosano. *Travels in Manchuria and Mongolia*. Translated by Joshua A. Fogel. Columbia University Press, 2001. [Ebook](http://library.st-andrews.ac.uk/record=b3067821~S5)
 
-Buzard, James. *The Beaten Track: European Tourism, Literature, and the Ways to Culture, 1800 - 1918*. Oxford u.a.: Clarendon Press, 2001.
+Buzard, James. *The Beaten Track: European Tourism, Literature, and the Ways to Culture, 1800 - 1918*. Oxford u.a.: Clarendon Press, 2001. [Ebook](http://library.st-andrews.ac.uk/record=b2070752~S5)
 
 MacLean, Gerald M. *The Rise of Oriental Travel: English Visitors to the Ottoman Empire, 1580-1720*. Basingstoke; New York: Palgrave Macmillan, 2006. (P)
 
@@ -883,15 +899,15 @@ Skwiot, Christine. *The Purposes of Paradise: U.S. Tourism and Empire in Cuba an
 
 MacCannell, Dean. *The Tourist: A New Theory of the Leisure Class*. University of California Press, 1999.
 
-Smith, Valene L. *Hosts and Guests: The Anthropology of Tourism*. University of Pennsylvania Press, 2012.
+Smith, Valene L. *Hosts and Guests: The Anthropology of Tourism*. University of Pennsylvania Press, 2012. [Ebook](http://library.st-andrews.ac.uk/record=b3077722~S5)
 
-Hall, Michael C., and Hazel Tucker. *Tourism and Postcolonialism: Contested Discourses, Identities and Representations*. Routledge, 2004.
+Hall, Michael C., and Hazel Tucker. *Tourism and Postcolonialism: Contested Discourses, Identities and Representations*. Routledge, 2004. [Ebook](http://library.st-andrews.ac.uk/record=b3293681~S5)
 
-MacCannell, Dean. *The Ethics of Sightseeing*. University of California Press, 2011.
+MacCannell, Dean. *The Ethics of Sightseeing*. University of California Press, 2011. [Eboo](http://library.st-andrews.ac.uk/record=b2070667~S5)
 
 Hazbun, Waleed. *Beaches, Ruins, Resorts: The Politics of Tourism in the Arab World*. U of Minnesota Press, 2008.
 
-Weisenfeld, Gennifer S. ‘Touring “Japan-As-Museum”: NIPPON and Other Japanese Imperialist Travelogues’. *Positions: East Asia Cultures Critique* 8, no. 3 (1 November 2000): 747–93.
+Weisenfeld, Gennifer S. ‘Touring “Japan-As-Museum”: NIPPON and Other Japanese Imperialist Travelogues’. *Positions: East Asia Cultures Critique* 8, no. 3 (1 November 2000): 747–93. [Muse](https://muse.jhu.edu/article/27965)
 
 <a name="sw4"></a>
 
@@ -920,23 +936,27 @@ Field, Andrew. *Shanghai’s Dancing World: Cabaret Culture and Modernity in Old
 
 **Further Reading**
 
-Segel, Harold B. *Turn-of-the-Century Cabaret: Paris, Barcelona, Berlin, Munich, Vienna, Cracow, Moscow, St. Petersburg, Zurich*. Columbia University Press, 1987.
+Clark, Peter. *British Clubs and Societies 1580-1800: The Origins of an Associational World.* OUP Oxford, 2000.
 
-Maekawa Reiko, et al. *Crossing Cultural Boundaries in East Asia and Beyond* Ch 5 Making Coffee, Making Space: Coffee Shops as Sites of Cultural Encounter
+Segel, Harold B. *Turn-of-the-Century Cabaret: Paris, Barcelona, Berlin, Munich, Vienna, Cracow, Moscow, St. Petersburg, Zurich*. Columbia University Press, 1987. [Ebook](http://library.st-andrews.ac.uk/record=b3071563~S5)
+
+Maekawa Reiko, et al. *Crossing Cultural Boundaries in East Asia and Beyond* Ch 5 Making Coffee, Making Space: Coffee Shops as Sites of Cultural Encounter [Ebook](http://library.st-andrews.ac.uk/record=b3188925~S5)
 
 Andrew Field *Shanghai's Dancing World: Cabaret Culture and Urban Politics* 
 
 Keppy, Peter. *Tales of Southeast Asia’s Jazz Age: Filipinos, Indonesians and Popular Culture, 1920-1936.* NUS Press, 2019.
 
-Jones, Andrew F. *Yellow Music: Media Culture and Colonial Modernity in the Chinese Jazz Age*. Duke University Press, 2001.
+Jones, Andrew F. *Yellow Music: Media Culture and Colonial Modernity in the Chinese Jazz Age*. Duke University Press, 2001. [Ebook](http://library.st-andrews.ac.uk/record=b3138299~S5)
 
 Farrer and Field *Shanghai Nightscapes*
 
-Joachim Schlör *Nights in the Big City: Paris, Berlin, London, 1840-1930*
+Joachim Schlör *Nights in the Big City: Paris, Berlin, London, 1840-1930* [Ebook](http://library.st-andrews.ac.uk/record=b3008511~S5)
 
-Brennan, Thomas Edward. *Public Drinking and Popular Culture in Eighteenth-Century Paris*. Princeton University Press, 2014.
+Brennan, Thomas Edward. *Public Drinking and Popular Culture in Eighteenth-Century Paris*. Princeton University Press, 2014. [Ebook](http://library.st-andrews.ac.uk/record=b3085217~S5) 
 
 Clark, Peter. *The English Alehouse: A Social History, 1200-1830*. Longman, 1983.
+
+Gilmartin, Kevin, ed. *Sociable Places: Locating Culture in Romantic-Period Britain*. Cambridge: Cambridge University Press, 2017. [Ebook](http://library.st-andrews.ac.uk/record=b3058444~S5)
 
 Hailwood, Mark. *Alehouses and Good Fellowship in Early Modern England*. Boydell & Brewer Ltd, 2014.
 
@@ -954,21 +974,23 @@ Wang, Di. ‘The Idle and the Busy Teahouses and Public Life in Early Twentieth-
 
 Oldenburg, Ray. *The Great Good Place: Cafes, Coffee Shops, Bookstores, Bars, Hair Salons, and Other Hangouts at the Heart of a Community*. Hachette Books, 1999.
 
-Ashby, Charlotte, Tag Gronberg, and Simon Shaw-Miller. *The Viennese Café and Fin-de-Siècle Culture*. Berghahn Books, 2013.
+Ashby, Charlotte, Tag Gronberg, and Simon Shaw-Miller. *The Viennese Café and Fin-de-Siècle Culture*. Berghahn Books, 2013. [Ebook](http://library.st-andrews.ac.uk/record=b3301008~S5)
 
-Cowan, Brian. *The Social Life of Coffee: The Emergence of the British Coffeehouse*. Yale University Press, 2008.
+Cowan, Brian. *The Social Life of Coffee: The Emergence of the British Coffeehouse*. Yale University Press, 2008. [Ebook](http://library.st-andrews.ac.uk/record=b3279525~S5)
 
 Ellis, Markman. *The Coffee-House: A Cultural History.* Hachette UK, 2011.
 
 Haine, W. Scott. *The World of the Paris Café: Sociability Among the French Working Class, 1789-1914*. JHU Press, 1998.
 
+Jolliffe, Lee ed. *Coffee Culture, Destinations and Tourism.*  2010. [Ebook](http://library.st-andrews.ac.uk/record=b3097796~S5)
+
 Hattox, Ralph S. *Coffee and Coffeehouses: The Origins of a Social Beverage in the Medieval Near East*. University of Washington Press ed. Near Eastern Studies, University of Washington, no. 3. Seattle: University of Washington Press, 1988.
 
 Rittner, Leona, and W. Scott Haine. *The Thinking Space: The Café as a Cultural Institution in Paris, Italy and Vienna*. Routledge, 2016.
 
-White, Merry. *Coffee Life in Japan*. Univ of California Press, 2012.
+White, Merry. *Coffee Life in Japan*. Univ of California Press, 2012. [Ebook](http://library.st-andrews.ac.uk/record=b3287271~S5)
 
-Spang, Rebecca L. *The Invention of the Restaurant: Paris and Modern Gastronomic Culture*. Harvard University Press, 2001.
+Spang, Rebecca L. *The Invention of the Restaurant: Paris and Modern Gastronomic Culture*. Harvard University Press, 2001. [Ebook](http://library.st-andrews.ac.uk/record=b3238952~S5)
 
 
 <a name="sw5"></a>
@@ -990,26 +1012,86 @@ Lizzy van Leeuwen, *Lost in Mall: An Ethnography of Middle-Class Jakarta in the 
 - A) Ruoff, Kenneth J. *Imperial Japan at Its Zenith: The Wartime Celebration of the Empire’s 2,600th Anniversary* (2010) [Ebook](http://library.st-andrews.ac.uk/record=b2897115~S5)   
     - Ch 2 Mass Participation and Mass Consumption Department Store Exhibitions pp74-79  
     - Dutiful Consumption and Reactionary Modernism pp79-81
-- B) Lewis, Su Lin. *Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940* (2016)  
+- B) Lewis, Su Lin. *Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940* (2016)  [Ebook](http://library.st-andrews.ac.uk/record=b2444361~S5)
     - Ch 2 Asian Port-Cities in a Turbulent Age pp47-94 Markets, Street Food and Amusements pp65-71
-- C) Freedman, Alisa et al *Modern Girls on the Go: Gender, Mobility, and Labor in Japan*  
+- C) Freedman, Alisa et al *Modern Girls on the Go: Gender, Mobility, and Labor in Japan* [Ebook](http://library.st-andrews.ac.uk/record=b3159349~S5) 
     - Ch 2 Moving Up and Out: The "Shop Girl" in Interwar Japan pp21-40  
     - Ch 3 Elevator Girls Moving In and Out of the Box pp41-66
 - D) Kerrie L. MacPherson ed. *Asian Department Stores* Introduction, Ch 7-8.
 - E) Madeleine Yue Dong, *Republican Beijing: The City and Its Histories* (University of California Press, 2003). Ch 5 Consumption: Spatial and Temporal Hierarchies pp142-171 [Ebook](http://ezproxy.st-andrews.ac.uk/login?url=http://dx.doi.org/10.1525/california/9780520230507.001.0001)
 - F) Kim, Jina E. *Urban Modernities in Colonial Korea and Taiwan* Ch 3 Consuming Modernity: Department Stores and Modernist Fiction [Ebook](http://library.st-andrews.ac.uk/record=b3186778~S5)
 - G) Cochran, Sherman, ed. *Inventing Nanjing Road: Commercial Culture in Shanghai, 1900–1945* (1999). Ch 1 Selling Goods and Promoting a New Commercial Culture: The Four Premier Department Stores on Nanjing Road, 1917-1937 pp19-36
-- H) Silverberg, Miriam Rom *Erotic Grotesque Nonsense: The Mass Culture of Japanese Modern Times* (University of California Press, 2009), chapter "Asakusa Eroticism" [Ebook](http://dx.doi.org/10.1525/california/9780520222731.001.0001)
+- H) Gordon, Andrew. *Fabricating Consumers: The Sewing Machine in Modern Japan.* London: University of California Press, 2011. [Ebook](http://library.st-andrews.ac.uk/record=b2070839~S5) Ch 3 and Ch 7
+- I) Cwiertka, Katarzyna J., and Ewa Machotka, eds. *Consuming Life in Post-Bubble Japan: A Transdisciplinary Perspective.* De Gruyter: Amsterdam University Press, 2018. [Open Access JSTOR](https://www.jstor.org/stable/j.ctv56fgjm) Introduction pp15-30 and Konbini-Nation pp69-88
+- J) Sato, Barbara Hamill. *The New Japanese Woman: Modernity, Media, and Women in Interwar Japan.* Durham, [N.C.]: Duke University Press, 2003. [Ebook](http://library.st-andrews.ac.uk/record=b3138676~S5) Ch 1 The Emergence of Agency:Women and Consumerism and Ch 2 The Modern Girl as a Representation of Consumer Culture
+
 
 **Further Reading:**
 
+Silverberg, Miriam Rom *Erotic Grotesque Nonsense: The Mass Culture of Japanese Modern Times* (University of California Press, 2009), chapter "Asakusa Eroticism" [Ebook](http://dx.doi.org/10.1525/california/9780520222731.001.0001)
+
 Kim, Jina E. *Urban Modernities in Colonial Korea and Taiwan*. BRILL, 2019.
 
-Miller, Laura, Jan Bardsley, eds. *Bad Girls of Japan*. New York: Palgrave Macmillan, 2005.
+Miller, Laura, Jan Bardsley, eds. *Bad Girls of Japan*. New York: Palgrave Macmillan, 2005. [Ebook](http://library.st-andrews.ac.uk/record=b1661522~S5)
 
 Gardner, William O. *Advertising Tower: Japanese Modernism and Modernity in the 1920s*. Harvard University Asia Center, 2006.
 
-Stalker, Nancy K. *Devouring Japan: Global Perspectives on Japanese Culinary Identity*. Oxford University Press, 2018.
+Stalker, Nancy K. *Devouring Japan: Global Perspectives on Japanese Culinary Identity*. Oxford University Press, 2018. [Ebook](http://library.st-andrews.ac.uk/record=b2720268~S5)
+
+*The Modern Girl Around the World: Consumption, Modernity and Globalization*, 2008. [Ebook](http://library.st-andrews.ac.uk/record=b3071563~S5)
+
+Crossick, Geoffrey, and Serge Jaumain. *Cathedrals of Consumption: The European Department Store, 1850-1939.* Ashgate, 1999. [Ebook](http://library.st-andrews.ac.uk/record=b3149036~S5)
+
+MacPherson, Kerrie L. *Asian Department Stores.* Routledge, 2013.
+
+Miller, Michael B. *The Bon Marché: Bourgeois Culture and the Department Store, 1869-1920.* Princeton University Press, 2020.
+
+Rahman, Md Arifur. *Japanese Retail Industry After the Bubble Economy: Development of the 100-Yen Shops.* Singapore: Springer, 2022. [Ebook](http://library.st-andrews.ac.uk/record=b3291332~S5)
+
+Yeh, Wen-Hsin. *Shanghai Splendor: Economic Sentiments and the Making of Modern China, 1843-1949.* University of California Press, 2008. [Ebook](http://library.st-andrews.ac.uk/record=b3286215~S5)
+
+Lerner, Paul. *The Consuming Temple: Jews, Department Stores, and the Consumer Revolution in Germany, 1880-1940.* De Gruyter: Cornell University Press, 2015. [Ebook](http://library.st-andrews.ac.uk/record=b3093350~S5)
+
+Rappaport, Erika. *Shopping for Pleasure: Women in the Making of London’s West End.* Princeton, NJ: Princeton University Press, 2021. [Ebook](http://library.st-andrews.ac.uk/record=b3156649~S5)
+
+Kirk, Nicole C. *Wanamaker’s Temple: The Business of Religion in an Iconic Department Store.* New York, NY: New York University Press, 2018. [Ebook](http://library.st-andrews.ac.uk/record=b3091772~S5)
+
+Howard, Vicki. *From Main Street to Mall: The Rise and Fall of the American Department Store.* De Gruyter: University of Pennsylvania Press, 2015. [Ebook](http://library.st-andrews.ac.uk/record=b3078010~S5)
+
+Trentmann, Frank, ed. *The Oxford Handbook of the History of Consumption.* Oxford ; New York: Oxford University Press, 2012.
+
+Dower, John W., Anne Nishimura Morse, Jacqueline M. Atkins, and Frederic A. Sharf, eds. *The Brittle Decade: Visualizing Japan in the 1930s.* Boston: MFA Publications, 2012.
+
+Blaszczyk, Regina Lee, ed. *Producing Fashion: Commerce, Culture, and Consumers.* De Gruyter: University of Pennsylvania Press, 2011. [Ebook](http://library.st-andrews.ac.uk/record=b3077529~S5)
+
+Artley, Alexandra, ed. *The Golden Age of Shop Design: European Shop Interiors, 1800-1939.* London: Architectural Press, 1975.
+
+Belisle, Donica. *Retail Nation: Department Stores and the Making of Modern Canada*. UBC Press, 2011.
+
+Benson, Susan P., and Susan Porter Benson. *Counter Cultures: Saleswomen, Managers, and Customers in American Department Stores, 1890-1940*. University of Illinois Press, 1986.
+
+Iarocci, Dr Louisa. *The Urban Department Store in America, 1850--1930*. Ashgate Publishing, Ltd., 2014.
+
+Jones, D. G. Brian, and Mark Tadajewski. *The Routledge Companion to Marketing History*. Routledge, 2016.
+
+Lancaster, Bill, and William Lancaster. *The Department Store: A Social History*. Leicester University Press, 1995.
+
+Lasc, Anca I., Patricia Lara-Betancourt, and Margaret Maile Petty. *Architectures of Display: Department Stores and Modern Retail*. Routledge, 2017.
+
+Laurenson, Helen Barbara. *Going Up, Going Down: The Rise and Fall of the Department Store*. Auckland University Press, 2005.
+
+Orr, Emily M. *Designing the Department Store: Display and Retail at the Turn of the Twentieth Century*. Bloomsbury Publishing, 2019.
+
+Parker, Traci. *Department Stores and the Black Freedom Movement: Workers, Consumers, and Civil Rights from the 1930s to the 1980s*. UNC Press Books, 2019.
+
+Scanlon, Jennifer R., and Jennifer Scanlon. *The Gender and Consumer Culture Reader*. NYU Press, 2000.
+
+Stobart, Jon, and Vicki Howard. *The Routledge Companion to the History of Retailing*. Routledge, 2018.
+
+Usui, Kazuo. *Marketing and Consumption in Modern Japan*. Routledge, 2014.
+
+Whitaker, Jan. *The Department Store: History, Design, Display*. Thames & Hudson, 2011.
+
 
 <a name="sw6"></a>
 
@@ -1020,13 +1102,13 @@ Stalker, Nancy K. *Devouring Japan: Global Perspectives on Japanese Culinary Ide
 - Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia* [Ebook](http://library.st-andrews.ac.uk/record=b2452271~S5)  
     - Ch 1 Untangling the “Messy” Asian City
     - Ch 7 Little Manila: The Other Central of Hong Kong
-- Simone, AbdouMaliq *Jakarta: Drawing the City Near* (Teams)  
+- Simone, AbdouMaliq *Jakarta: Drawing the City Near* [Ebook](http://library.st-andrews.ac.uk/record=b3207008~S5)  
     - Ch 3 Devising Relationships: Markets, Streets, Households, and Workshops but only: Undercurrents of Change, Working against Uncertainty, The Hodgepodge of the Urban Landscape, the Dynamics of Heterogeneity pp167-181
     - Ch 4 Endurance: Risking the Familiar but only: Look Both Ways Before you Cross the Street pp209-213; Endurance: Where to Put Things, Free Without a World pp227-236
 - Chhabria, Sheetal *Making the Modern Slum: The Power of Capital in Colonial Bombay* Introduction: Genealogies of the Urban Modern only pp3-25 (Teams)
 - Jane Jacobs *The Death and Life of Great American Cities*   
     - Ch 8 The Need for Mixed Primary Uses pp152-177 (Teams)
-- Amin, Ash and Nigel Thrift *Cities: Reimagining the Urban*   
+- Amin, Ash and Nigel Thrift *Cities: Reimagining the Urban* (Teams)
     - Ch 2 Propinquity and Flow in the City only pp31-36
 
 *Review:* de Certeau "Walking the City"
@@ -1038,9 +1120,11 @@ Stalker, Nancy K. *Devouring Japan: Global Perspectives on Japanese Culinary Ide
 - C) Colombijn, Freek and Joost Cote *Cars, Conduits, and Kampongs: The Modernization of the Indonesian City, 1920-1960* [Ebook](http://library.st-andrews.ac.uk/record=b3201333~S5) Ch 8 From Autonomous Village to 'Informal Slum': Kampong Development and State Control in Bandung (1930-1960) pp193-211
 - E) Madeleine Yue Dong, *Republican Beijing: The City and Its Histories* [Ebook](http://library.st-andrews.ac.uk/record=b2059740~S5) Ch 6 Recycling: The Tianqiao District pp172-210 + Ch 7 Sociology: Examining Urban Ills pp211-245
 - D) Wilson, Elizabeth *The Sphinx in the City* (Library) Ch 1 Into the Labyrinth + Ch 3 Cesspool City: London
-- F) Lu, Hanchao *Beyond the Neon Lights: Everyday Shanghai in the Early Twentieth Century* (Library) Ch 3 Escaping the Shantytown + Ch 5 Behind Stone Portals
+- F) Lu, Hanchao *Beyond the Neon Lights: Everyday Shanghai in the Early Twentieth Century* Ch 3 Escaping the Shantytown + Ch 5 Behind Stone Portals [Ebook](http://library.st-andrews.ac.uk/record=b3286132~S5)
 - G) Victoir, Laura and Victor Zatsepine *Harbin to Hanoi: The Colonial Built Environment, 1840 to 1940* [Ebook](http://library.st-andrews.ac.uk/record=b2068285~S5) Ch 10 Colonial Hanoi: Urban Space in Public Discourse
 - H) Marc Askew, *Bangkok: Place, Practice and Representation*  Ch 5 Genealogy of the Slum: Pragmatism, Politics and Locality pp139-169 (Library)
+- I) Garrido, Marco Z. *The Patchwork City: Class, Space, and Politics in Metro Manila.* Chicago: The University of Chicago Press, 2020. [Ebook](http://library.st-andrews.ac.uk/record=b2900561~S5)
+
 
 **Further Reading:**
 
@@ -1089,14 +1173,14 @@ Stalker, Nancy K. *Devouring Japan: Global Perspectives on Japanese Culinary Ide
 **Further reading:** 
 
 - Kristin Stapleton, ‘Urban Politics in an Age of “Secret Societies”: The Cases of Shanghai and Chengdu’, *Republican China* 22, no. 1 (1996): 23–63.
-- Cole Roskam, *Improvised City: Architecture and Governance in Shanghai, 1843-1937* (2019), Ch 1 "The Architecture of Extraterritoriality"
+- Cole Roskam, *Improvised City: Architecture and Governance in Shanghai, 1843-1937* (2019), Ch 1 "The Architecture of Extraterritoriality" [Ebook](http://library.st-andrews.ac.uk/record=b3208439~S5)
 - Mendoza, Victor Román. *Metroimperial Intimacies: Fantasy, Racial-Sexual Governance, and the Philippines in U.S. Imperialism, 1899-1913*. Duke University Press, 2015. [Ebook](http://library.st-andrews.ac.uk/record=b3168386~S5)
-- Jakarta: *Drawing the City Near* by Abdoumaliq Simone Ch 5 Inventive Policy: Integrating Residents into Running the City pp243-260
+- Jakarta: *Drawing the City Near* by Abdoumaliq Simone Ch 5 Inventive Policy: Integrating Residents into Running the City pp243-260 [Ebook](http://library.st-andrews.ac.uk/record=b3207008~S5)
 - Abidin Kusno and Phillip Darby, *After the New Order: Space, Politics, and Jakarta* [Ebook](http://library.st-andrews.ac.uk/record=b3081092~S5) Ch 1 The Nation-State and the City Hall pp3-27
 - Pieris, Anoma. *Hidden Hands and Divided Landscapes: A Penal History of Singapore’s Plural Society* [Ebook](http://library.st-andrews.ac.uk/record=b3081650~S5)
 - Hamilton, Sheilah E. *Watching Over Hong Kong: Private Policing 1841-1941*. Hong Kong University Press, 2012.  (P)
 - Erik W. Esselstrom, “Rethinking the Colonial Conquest of Manchuria: The Japanese Consular Police in Jiandao, 1909-1937,” *Modern Asian Studies* 39, no. 1 (February 1, 2005): 39–75.
-- Martin, Brian G. *The Shanghai Green Gang: Politics and Organized Crime, 1919-1937*. University of California Press, 1996. (P)
+- Martin, Brian G. *The Shanghai Green Gang: Politics and Organized Crime, 1919-1937*. University of California Press, 1996. (P) [Ebook](http://library.st-andrews.ac.uk/record=b3211779~S5)
 
 \pagebreak
 
@@ -1113,13 +1197,13 @@ Stalker, Nancy K. *Devouring Japan: Global Perspectives on Japanese Culinary Ide
 - Van Roy, Edward *Siamese Melting Pot: Ethnic Minorities in the Making of Bangkok* [Ebook](http://library.st-andrews.ac.uk/record=b3108478~S5) 
     - Ch 1 Old Bangkok: An Ethnohistorical Overview
     - Ch 6 Taming the Dragon: Chinese Rivalries
-- Goodman, Bryna *Native, Place, City, and Nation: regional networks and identities in Shanghai, 1853-1937* Introduction, Ch 3-5.
+- Goodman, Bryna *Native, Place, City, and Nation: regional networks and identities in Shanghai, 1853-1937* Introduction, Ch 3-5. [Ebook](http://library.st-andrews.ac.uk/record=b3285466~S5)
 - Honig, Emily. ‘The Politics of Prejudice: Subei People in Republican-Era Shanghai’. *Modern China* 15, no. 3 (1989): 243–74. [JSTOR](https://www.jstor.org/stable/189194)
 
 **Elective Reading:**
 
 - A) Chatani, Sayaka. ‘Revisiting Korean Slums in Postwar Japan: Tongne and Hakkyo in the Zainichi Memoryscape’. *The Journal of Asian Studies* 80, no. 3 (August 2021): 587–610. [DOI](https://doi.org/10.1017/S0021911820004659)
-- B) Simone, Abdoumaliq *Jakarta: Drawing the City Near* Ch 2 The Urban Majority: Improvised Livelihoods in Mixed-up Districts pp83-119 (only first half of chapter) (Library)
+- B) Simone, Abdoumaliq *Jakarta: Drawing the City Near* Ch 2 The Urban Majority: Improvised Livelihoods in Mixed-up Districts pp83-119 (only first half of chapter) [Ebook](http://library.st-andrews.ac.uk/record=b3207008~S5) 
 - C) Freek Colombijn, *Under Construction: The Politics of Urban Space and Housing during the Decolonization of Indonesia, 1930-1960*  Ch 2 Race, Class and Spatial Segregation pp71-102 (Library)
 - D) Dawley, Evan *Becoming Taiwanese: Ethnogenesis in a Colonial City 1880s-1950s* Ch 2 "Love of City and Love of Self" Ch 7 "Ethnicity, Nationalism and the Re-creation of Jilong 1945-1955" (Library)
 - E) Han, Eric C. *Rise of a Japanese Chinatown: Yokohama, 1894-1972*. Harvard East Asian Monographs 367. Cambridge, Massachusetts: Harvard University Asia Center, 2014. Introduction, Ch 3-5. [Ebook](http://library.st-andrews.ac.uk/record=b2910369~S5)
@@ -1140,7 +1224,7 @@ Hon-Lun Helan Yang et al., *Networking the Russian Diaspora: Russian Musicians a
 
 Home, Robert K. Of *Planting and Planning: The Making of British Colonial Cities*. Taylor & Francis, 1996. Ch 5 "Racial Segregation, Its Rise and Fall" [Ebook](http://library.st-andrews.ac.uk/record=b3153697~S5)
 
-Solomon, John. *A Subaltern History of the Indian Diaspora in Singapore: The Gradual Disappearance of Untouchability 1872-1965* Taylor & Francis Group, 2019.
+Solomon, John. *A Subaltern History of the Indian Diaspora in Singapore: The Gradual Disappearance of Untouchability 1872-1965* Taylor & Francis Group, 2019. [Ebook](http://library.st-andrews.ac.uk/record=b3211780~S5)
 
 Wakeman, Frederic E., and Wen-Hsin Yeh, eds. *Shanghai Sojourners*. Berkeley, Calif: Institute of East Asian Studies, 1992.
 
@@ -1154,7 +1238,7 @@ Toby Lincoln, “Fleeing from Firestorms: Government, Cities, Native Place Assoc
 
 Virunha Chuleeporn "From Regional Entrepôt to Malayan Port: Penang's Trade and Trading Communities, 1890-1940" in Guan, Yeoh Seng et al. *Penang and Its Region: The Story of an Asian Entrepôt*
 
-Kawashima, Ken C. *The Proletarian Gamble: Korean Workers in Interwar Japan*. Duke University Press, 2009. (P)
+Kawashima, Ken C. *The Proletarian Gamble: Korean Workers in Interwar Japan*. Duke University Press, 2009. (P) [Ebook](http://library.st-andrews.ac.uk/record=b3132574~S5)
 
 Christian Henriot, “Shanghai and the Experience of War. the Fate of Refugees,” *European Journal of East Asian Studies* 5, no. 2 (January 1, 2006): 215–45.
 
@@ -1166,11 +1250,11 @@ O’Dwyer, Emer Sinéad. *Significant Soil: Settler Colonialism and Japan’s Ur
 
 Uchida, Jun. “A Sentimental Journey: Mapping the Interior Frontier of Japanese Settlers in Colonial Korea.” The Journal of Asian Studies 70, no. 03 (August 2011): 706–29.
 
-———. *Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945*. Harvard University Asia Center, 2011. (P)
+———. *Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945*. Harvard University Asia Center, 2011. (P) [Ebook](http://library.st-andrews.ac.uk/record=b2910370~S5)
 
 ———. “The Public Sphere in Colonial Life: Residents’ Movements in Korea Under Japanese Rule.” Past & Present 220, no. 1 (August 1, 2013): 217–48. doi:10.1093/pastj/gtt002.
 
-Weiner, Michael. *Race and Migration in Imperial Japan*. Routledge
+Weiner, Michael. *Race and Migration in Imperial Japan*. Routledge [Ebook](http://library.st-andrews.ac.uk/record=b3211781~S5)
 
 ———. *Race, Ethnicity and Migration in Modern Japan: Indigenous and Colonial Others*. Taylor & Francis, 2004. (P)
 
@@ -1190,11 +1274,13 @@ Weiner, Michael. *Race and Migration in Imperial Japan*. Routledge
 
 **Elective Reading:**
 
-*Work in pairs (or a group of three) on the elective reading. Discuss it on Teams or in person with your partner before coming to class. No handout is required.*
+These all focus on western examples. As you read these, ask yourself what alternative ways could you approach these topics in an East or Southeast Asian context? How might this alternative perspective offer different questions to ask?
 
-- A) Luckhurst, Roger. *Corridors: Passages of Modernity*  Introduction + Ch 4, 6, 9.
-- B) Jütte, Daniel. *The Strait Gate: Thresholds and Power in Western History* Introduction + Ch 1, 4, 5
-- C) Harrison, Thomas. *Of Bridges: A Poetic and Philosophical Account* Introduction + Ch 2, 6, 9 [Ebook](http://library.st-andrews.ac.uk/record=b3197480~S5)
+- A) *Corridors* - Luckhurst, Roger. *Corridors: Passages of Modernity*  Introduction + Ch 4, 6, 9. [Ebook](http://library.st-andrews.ac.uk/record=b3208435~S5)
+- B) *Doors* - Jütte, Daniel. *The Strait Gate: Thresholds and Power in Western History* Introduction + Ch 1, 4, 5 [Ebook](http://library.st-andrews.ac.uk/record=b3208436~S5)
+- C) *Bridges* - Harrison, Thomas. *Of Bridges: A Poetic and Philosophical Account* Introduction + Ch 2, 6, 9 [Ebook](http://library.st-andrews.ac.uk/record=b3197480~S5)
+- D) *Elevators* - Bernard, Andreas. *Lifted: A Cultural History of the Elevator.* NYU Press, 2014. Ch 2, 3, 5 [Ebook](http://library.st-andrews.ac.uk/record=b3091717~S5)
+- E) *Toilets* - Molotch, Harvey, and Laura Noren eds. *Toilet: Public Restrooms and the Politics of Sharing.* NYU Press, 2010. Introduction + Ch 3, 7, 8.  [Ebook](http://library.st-andrews.ac.uk/record=b3079960~S5)
 
 **Further Reading:**
 
@@ -1236,9 +1322,9 @@ Han, Jung-san "Japan in the Public Culture of South Korea, 1945-2000s: The Makin
 
 **Elective Reading:**
 
-A) Crump, Thomas *Japanese Numbers Game: The Use and Understanding of Numbers in Modern Japan* (2012) Ch 7 Time pp96-113 Ch 8 The Spatial World of Numbers pp114-125
+A) Crump, Thomas *Japanese Numbers Game: The Use and Understanding of Numbers in Modern Japan* (2012) Ch 7 Time pp96-113 Ch 8 The Spatial World of Numbers pp114-125 [Ebook](http://library.st-andrews.ac.uk/record=b3238673~S5)
 
-B) Lawrence Chua, Ronald G. Knapp, and Xing Ruan, *Bangkok Utopia: Modern Architecture and Buddhist Felicities, 1910–1973*, (2021). Ch 2 A Historical and Cosmological Framework pp13-25. + Van Roy, Edward. ‘Rise and Fall of the Bangkok Mandala’. *Journal of Asian History* 45, no. 1/2 (2011): 85–118.
+B) Lawrence Chua, Ronald G. Knapp, and Xing Ruan, *Bangkok Utopia: Modern Architecture and Buddhist Felicities, 1910–1973*, (2021). Ch 2 A Historical and Cosmological Framework pp13-25. + Van Roy, Edward. ‘Rise and Fall of the Bangkok Mandala’. *Journal of Asian History* 45, no. 1/2 (2011): 85–118. [Ebook](http://library.st-andrews.ac.uk/record=b3147602~S5)
 
 C) Hong-Key Yoon *The Culture of Fengshui in Korea: An Exploration of East Asian Geomancy* Ch 6 The Principles of House Geomancy Ch 9 The Cartography of Geomancy
 
@@ -1254,17 +1340,18 @@ H) Yon, Hong-Key ed. *P'ungsu: A Study of Geomancy in Korea* Ch 9 Geomancy and T
 
 I) Bruun, Ole *An Introduction to Fengshui* (2008) [Ebook](http://library.st-andrews.ac.uk/record=b3042126~S5) Ch 5-7
 
+J) Kim, Sun Joo, *Marginality and Subversion in Korea: The Hong Kyongnae Rebellion of 1812* Ch 4 Prophecy and Popular Rebellion pp89-109 [Ebook](http://library.st-andrews.ac.uk/record=b3238683~S5)
+
+K) McMahon, Daniel *China's Borderlands under the Qing, 1644–1912: Perspectives and Approaches* Ch 4 Geomancy and Walled Fortifications on a Late Eighteenth Century Qing Borderland [Ebook](http://library.st-andrews.ac.uk/record=b3238680~S5)
+
+L) Smith, Richard J. *Fortune-Tellers And Philosophers: Divination In Traditional Chinese Society* (1991), Introduction, pp1-12, Ch 4 The Ways of Wind and Water pp131-172. [Ebook](http://library.st-andrews.ac.uk/record=b3238634~S5)
+
 **Further Reading:**
 
 Boxer, Baruch. “Space, Change and Feng-Shui in Tsuen Wan’s Urbanization.” *Journal of Asian and African Studies* 3, no. 3–4 (January 1, 1968): 226–40. [DOI](https://doi.org/10.1163/15685217-90007006).
 
-Smith, Richard J. *Fortune-Tellers And Philosophers: Divination In Traditional Chinese Society* (1991), Introduction, pp1-12, Ch 4 The Ways of Wind and Water pp131-172.
-
 Maurice Freedman, “Geomancy,” *Proceedings of the Royal Anthropological Institute of Great Britain and Ireland* (1968)
 
-McMahon, Daniel *China's Borderlands under the Qing, 1644–1912: Perspectives and Approaches* Ch 4 Geomancy and Walled Fortifications on a Late Eighteenth Century Qing Borderland 
-
-Sun Joo Kim, *Marginality and Subversion in Korea: The Hong Kyongnae Rebellion of 1812* Ch 4 Prophecy and Popular Rebellion pp89-109 
 
 <a name="sw11"></a>
 
@@ -1282,7 +1369,7 @@ Sun Joo Kim, *Marginality and Subversion in Korea: The Hong Kyongnae Rebellion o
 - B) Lily Kong and Brenda S. A. Yeoh, *The Politics of Landscapes in Singapore: Constructions of ‘Nation’* (Library)
     - Ch 4 Making Space for the Dead in the Body of the Living "Nation"
     - Ch 5 For "Nation" for Religion? Harnessing Sacred Landscapes
-- C) *Pilgrims and Sacred Sites in China* (Library)
+- C) *Pilgrims and Sacred Sites in China* [Ebook](http://library.st-andrews.ac.uk/record=b3285280~S5)
     - Ch 9 Reading the Chairman Mao Memorial Hall in Peking: The Tribulations of the Implied Pilgrim pp378-419
 - D) Lawrence Chua, Ronald G. Knapp, and Xing Ruan, *Bangkok Utopia: Modern Architecture and Buddhist Felicities, 1910–1973*. [Ebook](http://library.st-andrews.ac.uk/record=b3147602~S5)
     - Ch 3 Diagramming Utopian Nationalism: Nibbāna and the City of Willows p29-52
@@ -1306,5 +1393,5 @@ Sun Joo Kim, *Marginality and Subversion in Korea: The Hong Kyongnae Rebellion o
 - Imaizumi, Yoshiko. *Sacred Space in the Modern City: The Fractured Pasts of Meiji Shrine, 1912-1958*. BRILL, 2013.
 - Littleton, C. Scott. *Shinto: Origins, Rituals, Festivals, Spirits, Sacred Places*. Oxford ; New York: Oxford University Press, 2002.
 - Orsi, Robert A. *Gods of the City: Religion and the American Urban Landscape*. Indiana University Press, 1999. [Ebook](http://library.st-andrews.ac.uk/record=b2011812~S5)
-- Robson, James. *Power of Place: The Religious Landscape of the Southern Sacred Peak (Nanyue) in Medieval China*. Harvard University Asia Center, 2009.
+- Robson, James. *Power of Place: The Religious Landscape of the Southern Sacred Peak (Nanyue) in Medieval China*. Harvard University Asia Center, 2009. [Ebook](http://library.st-andrews.ac.uk/record=b3211783~S5)
 
