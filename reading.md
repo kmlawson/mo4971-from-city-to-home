@@ -18,11 +18,11 @@ Use Microsoft Teams to claim particular readings for your elective reading in a 
 
 Although you are not given an assessed mark, please note that your weekly elective reading handout is a *required* piece of work. You will *receive an academic alert* if you fail to submit the elective reading handout by noon the day before class in the weeks you signed up, and you may then be asked to submit a short review essay of the work (500-750 words) for the alert to be resolved. 
 
-- Post it as a Word, Txt, RTF, Markdown, or ODT - not PDF
+- Post it as a Word, Txt, RTF, Markdown, or ODT - not as a PDF
 - No more than two pages
 - Please put the title of the text/s at the top of the handout
 - Please include your name under the title
-- Important: For consistency, please name the file that you submit in the following manner: Week number - Your first name - category name or short title of first reading in category. For example: W7 - Konrad - B Asian Self-Representation at World's Fairs
+- **Important:** For consistency, please name the file that you submit in the following manner: Week number - Your first name - short title of first reading in the category. For example: W7 - Konrad - B Asian Self-Representation at World's Fairs
 
 **Introducing Elective Readings and your Essay Progress to Your Classmates**
 

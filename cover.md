@@ -1,6 +1,6 @@
 % MO4971 From City to Home: Spatial Histories of East and Southeast Asia c 1850-1950
 % Tutor: Konrad M. Lawson
-% Fall and Spring, 2022-2023
+% Fall and Spring, 2023-2024
 
 \begin{center}
 

@@ -522,24 +522,152 @@ Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930*
 
 \pagebreak
 
-<a name="w10"></a>
-
 ## Week 10 - Housing
-
-Hic Sunt Dracones
-
-<a name="w11"></a>
 
 ## Week 11 - Neighbourhood, and Suburb
 
-Hic Sunt Dracones
+We continue the exploration of the home and broaden it to consider the context of the home in its neighbourhood and emerging suburbian setting. The main focus will be on postwar Japanese housing with a smaller segment dedicated to discussion of the Chinese "shequ" or "residential community" structure.
+
+**Primary Sources and Activities**
+
+- *In class:* We will explore some maps and housing plans in East and Southeast Asia in class and analyse them in light of our reading this week. 
+- We will have a two group exercises today: one on the Japanese area of Den'enchōfu, and separately, on residential units/communities in a Chinese context. 
+
+**Required Secondary Reading**
+
+Ann Waswo *Housing in Postwar Japan* Ch 2 pp5-38 Ch 4 62-85 [Ebook](http://library.st-andrews.ac.uk/record=b3186775~S5)
+
+Bray, David. ‘Designing to Govern: Space and Power in Two Wuhan Communities’. *Built Environment* (1978-) 34, no. 4 (2008): 392–407. [Jstor](https://www.jstor.org/stable/23289849)
+
+Jordan Sand, *House and Home in Modern Japan: Reforming Everyday Life 1880-1930* (Cambridge, Mass.; London: Harvard University Press, 2005), Ch 7 "Culture Villages: Inscribing Cosmopolitanism in the Landscape" [Ebook](http://library.st-andrews.ac.uk/record=b1941202~S5)
+
+**Elective Reading Categories**
+
+- A) Hanchao Lu *Beyond the Neon Lights: Everyday Shanghai in the Early Twentieth Century* Ch 4 The Homes of the Little Urbanites, pp138-185 [Ebook](http://library.st-andrews.ac.uk/record=b3286132~S5)
+- B) Lily Kong and Brenda S. A. Yeoh, *The Politics of Landscapes in Singapore: Constructions of ‘Nation’* (Syracuse University Press, 2003). (Library)
+    - Ch 6 Housing the People, Building a "Nation" pp94-117
+- C) *Cars, Conduits, and Kampongs: The Modernization of the Indonesian City, 1920-1960* (BRILL, 2014). [Open Access](https://brill.com/view/title/26707)
+    - Ch 6 Kotabaru and the Housing Estate as Bulwark against the Indigenization of Colonial Java pp152-170 *or* Ch 7 Public Housing in Semarang and the Modernization of Kampongs, 1930-1960 pp172-190
+- D) Marc Askew, *Bangkok: Place, Practice and Representation* (Routledge, 2002). 
+    - Ch 6 A Place in the Suburbs: Making a Neighbourhood in the Middle-Class Housing Estate pp170-193 (See Files)
+- E) Nikhil Rao *House, But No Garden: Apartment Living in Bombay's Suburbs, 1898-1964*. Ch 3 The Rise of the Bombay Flat (Library)
+- F) Freek Colombijn, *Under Construction: The Politics of Urban Space and Housing during the Decolonization of Indonesia, 1930-1960* (BRILL, 2013). Ch 4 Life in the Kampongs pp103-140 *or* Ch 6 Housing in the Kampong pp181-227 (Library)
+
+**Further reading:**
+
+Abidin Kusno and Phillip Darby, *After the New Order: Space, Politics, and Jakarta*, (De Gruyter: University of Hawaii Press, 2013).  Ch 7 Housing the Margin pp139-171
+
+Freek Colombijn, *Under Construction: The Politics of Urban Space and Housing during the Decolonization of Indonesia, 1930-1960* (BRILL, 2013).
+
+Drėmaitė, Marija. *Baltic Modernism: Architecture and Housing in Soviet Lithuania.* DOM Publishers, 2017.
+
+Harloe, Michael. *The People’s Home?: Social Rented Housing in Europe and America.* John Wiley & Sons, 2011.
+
+Harris, Steven E. *Communism on Tomorrow Street: Mass Housing and Everyday Life after Stalin.* Woodrow Wilson Center Press / Johns Hopkins University Press, 2013.
+
+Lane, Barbara Miller, ed. *Housing and Dwelling: Perspectives on Modern Domestic Architecture*. Routledge, 2006.
+
+Lee, James. Housing, *Home Ownership and Social Change in Hong Kong*. Routledge, 2019.
+
+Pryor, E. G. *Housing In Hong Kong.* Hong Kong: Oxford University Press, 1996.
+
+Tang, Beibei. *China’s Housing Middle Class: Changing Urban Life in Gated Communities*. Routledge, 2017.
+
+Urban, Florian. *Tower and Slab: Histories of Global Mass Housing.* Routledge, 2013.
+
+Wright, Gwendolyn. *Building The Dream: A Social History of Housing in America*. Knopf Doubleday Publishing Group, 2012.
+
+Fishman, Robert. *Bourgeois Utopias: The Rise And Fall Of Suburbia*. 3.1.1989 edition. New York: Basic Books, 1989.
+
+———. *Bourgeois Utopias: The Rise And Fall Of Suburbia.* Basic Books, 2008.
+
+Giles, Judy. *The Parlour and the Suburb: Domestic Identities, Class, Femininity and Modernity.* Oxford: Berg Publishers, 2004.
+
+Haynes, Bruce D. *Red Lines, Black Spaces: The Politics of Race and Space in a Black Middle-Class Suburb*. Yale University Press, 2008.
+
+Jackson, Kenneth T. *Crabgrass Frontier: The Suburbanization of the United States*. New Ed edition. New York, NY: Oxford University Press, U.S.A., 1985.
+
+Jacobs, James A. *Detached America: Building Houses in Postwar Suburbia*. University of Virginia Press, 2015.
+
+McKellar, Elizabeth. *Landscapes of London: The City, the Country, and the Suburbs, 1660-1840*. Paul Mellon Centre BA, 2014.
+
+Nicolaides, Becky, and Andrew Wiese, eds. *The Suburb Reader*. Routledge, 2013.
+
+Rao, Nikhil. *House, But No Garden: Apartment Living in Bombay’s Suburbs, 1898-1964*. Minneapolis: University of Minnesota Press, 2013.
+
+Rome, Adam. *The Bulldozer in the Countryside: Suburban Sprawl and the Rise of American Environmentalism*. Cambridge University Press, 2001.
+
+Teaford, Jon C. *Post-Suburbia: Government and Politics in the Edge Cities*. JHU Press, 2020.
+
+Warner, Sam Bass. *Streetcar Suburbs: The Process of Growth in Boston, 1870-1900*. 2nd edition. Cambridge, Mass.: Harvard University Press, 1978.
+
+\pagebreak
+
+<a name="w11"></a>
+
+## Week 11 - Parks, Gardens, and Squares
+
+Our focus this week is on garden and park spaces. We will especially focus on the history of the 'zen' garden, but also the spatial history of public parks and squares more generally.
+
+**Primary Sources and Activities**
+
+* We will be discussing the Cowden Japanese garden in Dollar, Scotland. 
+    * [Background](https://cowden-garden.myshopify.com/pages/background) ([Archived](https://web.archive.org/web/20211024091834/https://cowden-garden.myshopify.com/pages/background))
+    * [History](https://cowden-garden.myshopify.com/pages/history) ([Archived](https://web.archive.org/web/20211024092004/https://cowden-garden.myshopify.com/pages/history))
+    * [Ecological History](https://cowden-garden.myshopify.com/pages/ecological-history) ([Archived](https://web.archive.org/web/20211024092217/https://cowden-garden.myshopify.com/pages/ecological-history))
+* We will do a group exercise examining some accounts of zen garden visits from the early 20th century and more recent times.
+
+**Required Reading**
+
+Tagsold, Christian. *Spaces in Translation: Japanese Gardens and the West. Penn Studies in Landscape Architecture*. Philadelphia: University of Pennsylvania Press, 2017. Introduction, Ch 1-5. [Ebook](http://library.st-andrews.ac.uk/record=b2877598~S5)
+
+**Elective Reading Categories:**
+
+- A) Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Introduction and Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [Ebook](http://library.st-andrews.ac.uk/record=b2048036~S5)
+- B) Allen, Joseph R. “Taipei Park: Signs of Occupation.” *The Journal of Asian Studies* 66, no. 1 (February 1, 2007): 159–99. https://doi.org/10.2307/20203109. [Jstor](https://www.jstor.org/stable/20203109)
+- C) Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017. Chapter 5 "The Royal Field (Sanam Luang): Bangkok’s Polysemic Urban Palimpsest" [Ebook](http://library.st-andrews.ac.uk/record=b2452271~S5)
+- D) Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017. Ch 5 The Royal Field (Sanam Luang): Bangkok’s Polysemic Urban Palimpsest [Ebook](http://library.st-andrews.ac.uk/record=b2452271~S5)
+- E) Mingzheng Shi, ‘From Imperial Gardens to Public Parks: The Transformation of Urban Space in Early Twentieth-Century Beijing’, *Modern China* 24, no. 3 (1998): 219–54. [Jstor](https://www.jstor.org/stable/189404)
+- F) Lee, Haiyan. “The Ruins of Yuanmingyuan Or, How to Enjoy a National Wound.” *Modern China* 35, no. 2 (March 1, 2009): 155–90. [Jstor](https://www.jstor.org/stable/27746912)
+- G) Tagsold, Christian. *Spaces in Translation: Japanese Gardens and the West*. Penn Studies in Landscape Architecture. Philadelphia: University of Pennsylvania Press, 2017. Ch 6-7. [Ebook](http://library.st-andrews.ac.uk/record=b2877598~S5)
+
+**Further Reading**
+
+Hung, Wu. ‘Tiananmen Square: A Political History of Monuments’. *Representations*, no. 35 (1 July 1991): 84–117. 
+
+Hung, Wu. *Remaking Beijing: Tiananmen Square and the Creation of a Political Space*. Reaktion Books, 2005.  (P)
+
+Bickers, Robert A., and Jeffrey N. Wasserstrom. “Shanghai’s ‘Dogs and Chinese Not Admitted’ Sign: Legend, History and Contemporary Symbol.” *The China Quarterly*, no. 142 (1995): 444–66. [jstor](https://www.jstor.org/stable/655423)
+
+Yuezhi, Xiong. ‘From Racecourse to People’s Park and People’s Square: Historical Transformation and Symbolic Significance’. *Urban History* 38, no. Special Issue 03 (2011): 475–90. 
+
+Barnard, Timothy P. *Nature’s Colony: Empire, Nation and Environment in the Singapore Botanic Gardens*. NUS Press, 2016. (P)
+
+Prest, John. *The Garden of Eden: The Botanic Garden and the Re-Creation of Paradise*. Yale University Press, 1988. (P)
+
+Rosenzweig, Roy, and Elizabeth Blackmar. *The Park and the People: A History of Central Park*. Cornell University Press, 1992.
+
+Hotta-Lister, A. *The Japan-British Exhibition of 1910: Gateway to the Island Empire of the East*. 1 edition. Richmond: Routledge, 1999.
+
+Takei, Jiro, Marc Peter Keane, and Marc P. Keane. *Sakuteiki: Visions of the Japanese Garden: A Modern Translation of Japan’s Gardening Classic*. Tuttle Publishing, 2008. (P)
+
+Tschumi, Christian. *Mirei Shigemori - Rebel in the Garden: Modern Japanese Landscape Architecture*. Walter de Gruyter, 2012. (P)
+
+———. *Mirei Shigemori: Modernizing the Japanese Garden*. Stone Bridge Press, 2005. (P)
+
+Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. University of Chicago Press, 2011. (P)
+
+\pagebreak
 
 # Spring Semester 
 
+These readings are being updated and will be released in Week 1, but for reference, you may see a full list of the readings from the last academic year by downloading the old handbook here:
+
+**[2021-2022 Old Handbook PDF](https://github.com/kmlawson/mo4971-from-city-to-home/raw/1f197e71abc54b6c6b54aed1c6ac65134073bbe0/handbook.pdf)**
 
 <a name="sw1"></a>
 
-## Week 1 - Space and Mobility
+## Week 1 - Mobility and Transportation
 
 **Required Reading:**
 
@@ -611,7 +739,87 @@ York, F. W., and A. R. Phillips. *Singapore: A History of Its Trams, Trolleybuse
 
 <a name="sw2"></a>
 
-## Week 2 - The Tourist Gaze
+## Week 2 - Guest Seminar with Yee, Sangwook on the Museum in East Asia; Exhibitions
+
+Please read closely and be ready to discuss with the author as guest:
+
+Yee, Sangwook "Museum as a Proper Noun: Representation of the Modern Museum in East Asian Travel Writings in the Late Nineteenth Century" Article Manuscript - will be emailed.
+
+Required Reading:
+
+Todd Henry, *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-45*
+Ch 3 ‘Material Assimilation: Colonial Expositions on the Kyŏngbok Palace Grounds’ [Ebook](http://library.st-andrews.ac.uk/record=b2052230~S5)
+ 
+Mitchell, Timothy. ‘The World as Exhibition’. *Comparative Studies in Society and History* 31, no. 2 (April 1989): 217–36. [DOI](https://doi.org/10.1017/S0010417500015802)
+ 
+Count Hirokichi Mutsu, “The Japan-British Exhibition, 1910,” *Journal of the Royal Society of Arts* 58, no. 2983 (January 21, 1910): 232–43.  [JSTOR](https://www.jstor.org/stable/41338990)
+
+**Elective Reading**
+ 
+(if you would like to give a presentation, feel free to choose any of the texts below)
+ 
+- B) Peterson, William. *Asian Self-Representation at World’s Fairs*. Amsterdam University Press, 2020.  [Ebook](http://library.st-andrews.ac.uk/record=b3117924~S5) Introduction and Ch 2.
+- C) Coté, Joost. ‘Staging Modernity: The Semarang International Colonial Exhibition, 1914’. *Review of Indonesian and Malaysian Affairs* 40, no. 1 (1 January 2006): 1–44.
+- D) Hotta-Lister, A. *The Japan-British Exhibition of 1910: Gateway to the Island Empire of the East*. 1 edition. Richmond: Routledge, 1999. Introduction + Ch 2-3, 5 [Ebook](http://library.st-andrews.ac.uk/record=b2709522~S5)
+- E) Peterson, William. Asian Self-Representation at World’s Fairs. Amsterdam University Press, 2020. Three chapters from among 3, 4, 6, 7, 8, 9 [Ebook](http://library.st-andrews.ac.uk/record=b3117924~S5)
+- F) Raizman, David, and Ethan Robey. *Expanding Nationalisms at World’s Fairs: Identity, Diversity, and Exchange, 1851-1915*. Routledge, 2017. Introduction + Ch 1, 9 [Ebook](http://library.st-andrews.ac.uk/record=b3117350~S5)
+- G) Rydell, Robert W. *All the World’s a Fair: Visions of Empire at American International Expositions, 1876-1916* Introduction + Ch 2, 4, 5 (Hard copy in Library)
+- H) Kal, Hong. *Aesthetic Constructions of Korean Nationalism: Spectacle, Politics and History*. Routledge, 2011. (Hard Copy in Library) Introduction + Ch 1-2
+- I) Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*. Duke University Press, 2013. [Ebook](http://library.st-andrews.ac.uk/record=b3009704~S5) Ch 2 Korea’s Participation in Chicago World Fair +  Kari Shepherdson-Scott, ‘Conflicting Politics and Contesting Borders: Exhibiting (Japanese) Manchuria at the Chicago World’s Fair, 1933–34’, *The Journal of Asian Studies* 74, no. 03 (August 2015): 539–64, [DOI](https://doi.org/10.1017/S0021911815000558)
+
+**Further Reading**
+
+Alan Tansman ed. *The Culture of Japanese Fascism*. De Gruyter: Duke University Press, 2009. [Ebook](http://library.st-andrews.ac.uk/record=b3203944~S5) Ch 11 Expo Fascism?: Ideology, Representation, Economy
+
+Hanscom, Christopher P., and Dennis Washburn, eds. *The Affect of Difference: Representations of Race in East Asian Empire*. De Gruyter: University of Hawaii Press, 2016. [Ebook](http://library.st-andrews.ac.uk/record=b3081271~S5)
+
+Coletta, Cristina Della. *World’s Fairs Italian-Style: The Great Expositions in Turin and Their Narratives, 1860-1915*. University of Toronto Press, 2006.
+
+Filipová, Marta. *Cultures of International Exhibitions 1840-1940: Great Exhibitions in the Margins*. Routledge, 2017.
+
+Geppert, A. *Fleeting Cities: Imperial Expositions in Fin-de-Siècle Europe*. Springer, 2010.
+
+Greenhalgh, Paul. *Ephemeral Vistas: The Expositions Universelles, Great Exhibitions and World’s Fairs, 1851-1939*, 1991.
+
+Kal, Hong. “Modeling the West, Returning to Asia: Shifting Politics of Representation in Japanese Colonial Expositions in Korea.” *Comparative Studies in Society and History* 47, no. 3 (2005): 507–31.
+
+Lockyer, Angus. *Japan at the Exhibition, 1867-1970*. PhD Dissertation, Stanford University, 2000.
+
+Maloney, Cathy Jean. *World’s Fair Gardens: Shaping American Landscapes*. University of Virginia Press, 2012.
+
+Molella, Arthur P., and Scott Gabriel Knowles. *World’s Fairs in the Cold War: Science, Technology, and the Culture of Progress*. University of Pittsburgh Press, 2019. [Ebook](http://library.st-andrews.ac.uk/record=b3124073~S5)
+
+Lawn, Martin. *Modelling the Future: Exhibitions and the Materiality of Education.* Symposium Books Ltd, 2009.
+
+Kaiser, Wolfram. ‘The Great Derby Race: Strategies of Cultural Representation at Nineteenth-Century World Exhibitions’. In Chapter 2. The Great Derby Race: Strategies of Cultural Representation at Nineteenth-Century World Exhibitions, 43–59. Berghahn Books, 2003. [Ebook](http://library.st-andrews.ac.uk/record=b3295972~S5)
+
+Boone, M. Elizabeth. *“The Spanish Element in Our Nationality”: Spain and America at the World’s Fairs and Centennial Celebrations, 1876–1915.* Electronic book. De Gruyter: Penn State University Press, 2021.
+
+Busch, Jason T., Catherine Futter, Regina Lee Blaszczyk, Stephen Harrison, Karin A. Jones, Martin Levy, Dawn Reid, et al. *Inventing the Modern World: Decorative Arts at the World’s Fairs, 1851-1939*. Pittsburgh, Pa. : Kansas City, Mo. : New York: Carnegie Museum of Art ; Nelson-Atkins Museum of Art ; Skira Rizzoli, 2012.
+
+Kargon, Robert H., Karen Fiss, Morris Low, and Arthur P. Molella. *World’s Fairs on the Eve of War: Science, Technology, & Modernity, 1937-1942.* Pittsburgh, Pennsylvania: University of Pittsburgh Press, 2015.
+
+Park Young-sin. “Making ‘Modern’ Korean Subjects: The Chosŏn Industrial Exhibition of 1915" *Journal of Asian Humanities at Kyushu University*. Accessed July 19, 2021. [DOI](https://doi.org/10.5109/4377702)
+
+Raizman, David, and Ethan Robey. *Expanding Nationalisms at World’s Fairs: Identity, Diversity, and Exchange, 1851-1915*. Routledge, 2017. [Ebook](http://library.st-andrews.ac.uk/record=b3117350~S5)
+
+Rydell, Robert W. *All the World’s a Fair: Visions of Empire at American International Expositions, 1876-1916*. University of Chicago Press, 2013.
+
+———. *World of Fairs: The Century-of-Progress Expositions*. University of Chicago Press, 1993.
+
+Rydell, Robert W., and Laura Burd Schiavo. *Designing Tomorrow: America’s World’s Fairs of the 1930s*. Yale University Press, 2010.
+
+Tenorio-Trillo, Mauricio. *Mexico at the World’s Fairs: Crafting a Modern Nation*. Univ of California Press, 2018.
+
+Wesemael, Pieter van. *Architecture of Instruction and Delight: A Socio-Historical Analysis of World Exhibitions as a Didactic Phenomenon* (1798-1851-1970)
+
+Wright, Dr Jonathan Jeffrey, and Dr Diarmid A. Finnegan. *Spaces of Global Knowledge: Exhibition, Encounter and Exchange in an Age of Empire*. Ashgate Publishing, Ltd., 2015.
+
+Huang Shumei and Lee Hyun Kyung *Heritage, Memory, and Punishment* [Ebook](http://library.st-andrews.ac.uk/record=b3186776~S5)
+
+<a name="sw3"></a>
+
+## Week 3 - The Tourist Gaze
 
 **Primary Sources**
 
@@ -701,143 +909,9 @@ Hazbun, Waleed. *Beaches, Ruins, Resorts: The Politics of Tourism in the Arab Wo
 
 Weisenfeld, Gennifer S. ‘Touring “Japan-As-Museum”: NIPPON and Other Japanese Imperialist Travelogues’. *Positions: East Asia Cultures Critique* 8, no. 3 (1 November 2000): 747–93. [Muse](https://muse.jhu.edu/article/27965)
 
-<a name="sw3"></a>
-
-## Week 3 - Parks, Gardens, and Squares
-
-Our focus this week is on garden and park spaces. We will especially focus on the history of the 'zen' garden, but also the spatial history of public parks and squares more generally.
-
-**Primary Sources and Activities**
-
-* We will be discussing the Cowden Japanese garden in Dollar, Scotland. 
-    * [Background](https://cowden-garden.myshopify.com/pages/background) ([Archived](https://web.archive.org/web/20211024091834/https://cowden-garden.myshopify.com/pages/background))
-    * [History](https://cowden-garden.myshopify.com/pages/history) ([Archived](https://web.archive.org/web/20211024092004/https://cowden-garden.myshopify.com/pages/history))
-    * [Ecological History](https://cowden-garden.myshopify.com/pages/ecological-history) ([Archived](https://web.archive.org/web/20211024092217/https://cowden-garden.myshopify.com/pages/ecological-history))
-* We will do a group exercise examining some accounts of zen garden visits from the early 20th century and more recent times.
-
-**Required Reading**
-
-Tagsold, Christian. *Spaces in Translation: Japanese Gardens and the West. Penn Studies in Landscape Architecture*. Philadelphia: University of Pennsylvania Press, 2017. Introduction, Ch 1-5. [Ebook](http://library.st-andrews.ac.uk/record=b2877598~S5)
-
-**Elective Reading Categories:**
-
-- A) Jordan Sand, *Tokyo Vernacular: Common Spaces, Local Histories, Found Objects* (University of California Press, 2013), Introduction and Ch 1 "Hiroba: The Public Square and the Boundaries of the Commons" [Ebook](http://library.st-andrews.ac.uk/record=b2048036~S5)
-- B) Allen, Joseph R. “Taipei Park: Signs of Occupation.” *The Journal of Asian Studies* 66, no. 1 (February 1, 2007): 159–99. https://doi.org/10.2307/20203109. [Jstor](https://www.jstor.org/stable/20203109)
-- C) Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017. Chapter 5 "The Royal Field (Sanam Luang): Bangkok’s Polysemic Urban Palimpsest" [Ebook](http://library.st-andrews.ac.uk/record=b2452271~S5)
-- D) Chalana, Manish, ed. *Messy Urbanism: Understanding the “Other” Cities of Asia*. Hong Kong: Hong Kong University Press, 2017. Ch 5 The Royal Field (Sanam Luang): Bangkok’s Polysemic Urban Palimpsest [Ebook](http://library.st-andrews.ac.uk/record=b2452271~S5)
-- E) Mingzheng Shi, ‘From Imperial Gardens to Public Parks: The Transformation of Urban Space in Early Twentieth-Century Beijing’, *Modern China* 24, no. 3 (1998): 219–54. [Jstor](https://www.jstor.org/stable/189404)
-- F) Lee, Haiyan. “The Ruins of Yuanmingyuan Or, How to Enjoy a National Wound.” *Modern China* 35, no. 2 (March 1, 2009): 155–90. [Jstor](https://www.jstor.org/stable/27746912)
-- G) Tagsold, Christian. *Spaces in Translation: Japanese Gardens and the West*. Penn Studies in Landscape Architecture. Philadelphia: University of Pennsylvania Press, 2017. Ch 6-7. [Ebook](http://library.st-andrews.ac.uk/record=b2877598~S5)
-
-**Further Reading**
-
-Hung, Wu. ‘Tiananmen Square: A Political History of Monuments’. *Representations*, no. 35 (1 July 1991): 84–117. 
-
-Hung, Wu. *Remaking Beijing: Tiananmen Square and the Creation of a Political Space*. Reaktion Books, 2005.  (P)
-
-Bickers, Robert A., and Jeffrey N. Wasserstrom. “Shanghai’s ‘Dogs and Chinese Not Admitted’ Sign: Legend, History and Contemporary Symbol.” *The China Quarterly*, no. 142 (1995): 444–66. [jstor](https://www.jstor.org/stable/655423)
-
-Yuezhi, Xiong. ‘From Racecourse to People’s Park and People’s Square: Historical Transformation and Symbolic Significance’. *Urban History* 38, no. Special Issue 03 (2011): 475–90. 
-
-Barnard, Timothy P. *Nature’s Colony: Empire, Nation and Environment in the Singapore Botanic Gardens*. NUS Press, 2016. (P)
-
-Prest, John. *The Garden of Eden: The Botanic Garden and the Re-Creation of Paradise*. Yale University Press, 1988. (P)
-
-Rosenzweig, Roy, and Elizabeth Blackmar. *The Park and the People: A History of Central Park*. Cornell University Press, 1992.
-
-Hotta-Lister, A. *The Japan-British Exhibition of 1910: Gateway to the Island Empire of the East*. 1 edition. Richmond: Routledge, 1999.
-
-Takei, Jiro, Marc Peter Keane, and Marc P. Keane. *Sakuteiki: Visions of the Japanese Garden: A Modern Translation of Japan’s Gardening Classic*. Tuttle Publishing, 2008. (P)
-
-Tschumi, Christian. *Mirei Shigemori - Rebel in the Garden: Modern Japanese Landscape Architecture*. Walter de Gruyter, 2012. (P)
-
-———. *Mirei Shigemori: Modernizing the Japanese Garden*. Stone Bridge Press, 2005. (P)
-
-Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. University of Chicago Press, 2011. (P)
-
-\pagebreak
-
-
 <a name="sw4"></a>
 
-## Week 4 - Museums and Exhibitions
-
-Required Reading:
-
-Todd Henry, *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-45*
-Ch 3 ‘Material Assimilation: Colonial Expositions on the Kyŏngbok Palace Grounds’ [Ebook](http://library.st-andrews.ac.uk/record=b2052230~S5)
- 
-Mitchell, Timothy. ‘The World as Exhibition’. *Comparative Studies in Society and History* 31, no. 2 (April 1989): 217–36. [DOI](https://doi.org/10.1017/S0010417500015802)
- 
-Count Hirokichi Mutsu, “The Japan-British Exhibition, 1910,” *Journal of the Royal Society of Arts* 58, no. 2983 (January 21, 1910): 232–43.  [JSTOR](https://www.jstor.org/stable/41338990)
-
-**Elective Reading**
- 
-(if you would like to give a presentation, feel free to choose any of the texts below)
-
-- A) 
-- B) Peterson, William. *Asian Self-Representation at World’s Fairs*. Amsterdam University Press, 2020.  [Ebook](http://library.st-andrews.ac.uk/record=b3117924~S5) Introduction and Ch 2.
-- C) Coté, Joost. ‘Staging Modernity: The Semarang International Colonial Exhibition, 1914’. *Review of Indonesian and Malaysian Affairs* 40, no. 1 (1 January 2006): 1–44.
-- D) Hotta-Lister, A. *The Japan-British Exhibition of 1910: Gateway to the Island Empire of the East*. 1 edition. Richmond: Routledge, 1999. Introduction + Ch 2-3, 5 [Ebook](http://library.st-andrews.ac.uk/record=b2709522~S5)
-- E) Peterson, William. Asian Self-Representation at World’s Fairs. Amsterdam University Press, 2020. Three chapters from among 3, 4, 6, 7, 8, 9 [Ebook](http://library.st-andrews.ac.uk/record=b3117924~S5)
-- F) Raizman, David, and Ethan Robey. *Expanding Nationalisms at World’s Fairs: Identity, Diversity, and Exchange, 1851-1915*. Routledge, 2017. Introduction + Ch 1, 9 [Ebook](http://library.st-andrews.ac.uk/record=b3117350~S5)
-- G) Rydell, Robert W. *All the World’s a Fair: Visions of Empire at American International Expositions, 1876-1916* Introduction + Ch 2, 4, 5 (Hard copy in Library)
-- H) Kal, Hong. *Aesthetic Constructions of Korean Nationalism: Spectacle, Politics and History*. Routledge, 2011. (Hard Copy in Library) Introduction + Ch 1-2
-- I) Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*. Duke University Press, 2013. [Ebook](http://library.st-andrews.ac.uk/record=b3009704~S5) Ch 2 Korea’s Participation in Chicago World Fair +  Kari Shepherdson-Scott, ‘Conflicting Politics and Contesting Borders: Exhibiting (Japanese) Manchuria at the Chicago World’s Fair, 1933–34’, *The Journal of Asian Studies* 74, no. 03 (August 2015): 539–64, [DOI](https://doi.org/10.1017/S0021911815000558)
-
-**Further Reading**
-
-Alan Tansman ed. *The Culture of Japanese Fascism*. De Gruyter: Duke University Press, 2009. [Ebook](http://library.st-andrews.ac.uk/record=b3203944~S5) Ch 11 Expo Fascism?: Ideology, Representation, Economy
-
-Hanscom, Christopher P., and Dennis Washburn, eds. *The Affect of Difference: Representations of Race in East Asian Empire*. De Gruyter: University of Hawaii Press, 2016. [Ebook](http://library.st-andrews.ac.uk/record=b3081271~S5)
-
-Coletta, Cristina Della. *World’s Fairs Italian-Style: The Great Expositions in Turin and Their Narratives, 1860-1915*. University of Toronto Press, 2006.
-
-Filipová, Marta. *Cultures of International Exhibitions 1840-1940: Great Exhibitions in the Margins*. Routledge, 2017.
-
-Geppert, A. *Fleeting Cities: Imperial Expositions in Fin-de-Siècle Europe*. Springer, 2010.
-
-Greenhalgh, Paul. *Ephemeral Vistas: The Expositions Universelles, Great Exhibitions and World’s Fairs, 1851-1939*, 1991.
-
-Kal, Hong. “Modeling the West, Returning to Asia: Shifting Politics of Representation in Japanese Colonial Expositions in Korea.” *Comparative Studies in Society and History* 47, no. 3 (2005): 507–31.
-
-Lockyer, Angus. *Japan at the Exhibition, 1867-1970*. PhD Dissertation, Stanford University, 2000.
-
-Maloney, Cathy Jean. *World’s Fair Gardens: Shaping American Landscapes*. University of Virginia Press, 2012.
-
-Molella, Arthur P., and Scott Gabriel Knowles. *World’s Fairs in the Cold War: Science, Technology, and the Culture of Progress*. University of Pittsburgh Press, 2019. [Ebook](http://library.st-andrews.ac.uk/record=b3124073~S5)
-
-Lawn, Martin. *Modelling the Future: Exhibitions and the Materiality of Education.* Symposium Books Ltd, 2009.
-
-Kaiser, Wolfram. ‘The Great Derby Race: Strategies of Cultural Representation at Nineteenth-Century World Exhibitions’. In Chapter 2. The Great Derby Race: Strategies of Cultural Representation at Nineteenth-Century World Exhibitions, 43–59. Berghahn Books, 2003. [Ebook](http://library.st-andrews.ac.uk/record=b3295972~S5)
-
-Boone, M. Elizabeth. *“The Spanish Element in Our Nationality”: Spain and America at the World’s Fairs and Centennial Celebrations, 1876–1915.* Electronic book. De Gruyter: Penn State University Press, 2021.
-
-Busch, Jason T., Catherine Futter, Regina Lee Blaszczyk, Stephen Harrison, Karin A. Jones, Martin Levy, Dawn Reid, et al. *Inventing the Modern World: Decorative Arts at the World’s Fairs, 1851-1939*. Pittsburgh, Pa. : Kansas City, Mo. : New York: Carnegie Museum of Art ; Nelson-Atkins Museum of Art ; Skira Rizzoli, 2012.
-
-Kargon, Robert H., Karen Fiss, Morris Low, and Arthur P. Molella. *World’s Fairs on the Eve of War: Science, Technology, & Modernity, 1937-1942.* Pittsburgh, Pennsylvania: University of Pittsburgh Press, 2015.
-
-Park Young-sin. “Making ‘Modern’ Korean Subjects: The Chosŏn Industrial Exhibition of 1915" *Journal of Asian Humanities at Kyushu University*. Accessed July 19, 2021. [DOI](https://doi.org/10.5109/4377702)
-
-Raizman, David, and Ethan Robey. *Expanding Nationalisms at World’s Fairs: Identity, Diversity, and Exchange, 1851-1915*. Routledge, 2017. [Ebook](http://library.st-andrews.ac.uk/record=b3117350~S5)
-
-Rydell, Robert W. *All the World’s a Fair: Visions of Empire at American International Expositions, 1876-1916*. University of Chicago Press, 2013.
-
-———. *World of Fairs: The Century-of-Progress Expositions*. University of Chicago Press, 1993.
-
-Rydell, Robert W., and Laura Burd Schiavo. *Designing Tomorrow: America’s World’s Fairs of the 1930s*. Yale University Press, 2010.
-
-Tenorio-Trillo, Mauricio. *Mexico at the World’s Fairs: Crafting a Modern Nation*. Univ of California Press, 2018.
-
-Wesemael, Pieter van. *Architecture of Instruction and Delight: A Socio-Historical Analysis of World Exhibitions as a Didactic Phenomenon* (1798-1851-1970)
-
-Wright, Dr Jonathan Jeffrey, and Dr Diarmid A. Finnegan. *Spaces of Global Knowledge: Exhibition, Encounter and Exchange in an Age of Empire*. Ashgate Publishing, Ltd., 2015.
-
-Huang Shumei and Lee Hyun Kyung *Heritage, Memory, and Punishment* [Ebook](http://library.st-andrews.ac.uk/record=b3186776~S5)
-
-<a name="sw5"></a>
-
-## Week 5 - Social Spaces
+## Week 4 - Social Spaces
 
 **Required Reading**
 
@@ -919,9 +993,9 @@ White, Merry. *Coffee Life in Japan*. Univ of California Press, 2012. [Ebook](ht
 Spang, Rebecca L. *The Invention of the Restaurant: Paris and Modern Gastronomic Culture*. Harvard University Press, 2001. [Ebook](http://library.st-andrews.ac.uk/record=b3238952~S5)
 
 
-<a name="sw6"></a>
+<a name="sw5"></a>
 
-## Week 6 - Spaces of Consumption
+## Week 5 - Spaces of Consumption
 
 **Required Reading**
 
@@ -1019,9 +1093,9 @@ Usui, Kazuo. *Marketing and Consumption in Modern Japan*. Routledge, 2014.
 Whitaker, Jan. *The Department Store: History, Design, Display*. Thames & Hudson, 2011.
 
 
-<a name="sw7"></a>
+<a name="sw6"></a>
 
-## Week 7 - Messy Urbanism  
+## Week 6 - Messy Urbanism  
 
 **Required Reading:**
 
@@ -1067,9 +1141,9 @@ Whitaker, Jan. *The Department Store: History, Design, Display*. Thames & Hudson
 
 \pagebreak
 
-<a name="sw8"></a>
+<a name="sw7"></a>
 
-## Week 8 - Urban Space, Order, and Politics  
+## Week 7 - Urban Space, Order, and Politics  
 
 **Task:**
 
@@ -1110,9 +1184,9 @@ Whitaker, Jan. *The Department Store: History, Design, Display*. Thames & Hudson
 
 \pagebreak
 
-<a name="sw9"></a>
+<a name="sw8"></a>
 
-## Week 9 - Migration and Ethnic Space  
+## Week 8 - Migration and Ethnic Space  
 
 **Task:**
 
@@ -1183,6 +1257,37 @@ Uchida, Jun. “A Sentimental Journey: Mapping the Interior Frontier of Japanese
 Weiner, Michael. *Race and Migration in Imperial Japan*. Routledge [Ebook](http://library.st-andrews.ac.uk/record=b3211781~S5)
 
 ———. *Race, Ethnicity and Migration in Modern Japan: Indigenous and Colonial Others*. Taylor & Francis, 2004. (P)
+
+\pagebreak
+
+<a name="sw9"></a>
+
+## Week 9 - Other Spaces  
+
+**Required Readings:**
+
+- Simmel, Georg, David Frisby, and Mike Featherstone. *Simmel on Culture: Selected Writings. Theory, Culture & Society* Part IV ‘Bridge and Door’ pp170-174. (Teams)
+- Madeleine Yue Dong, *Republican Beijing: The City and Its Histories* [Ebook](http://library.st-andrews.ac.uk/record=b2059740~S5) Ch 2 The City and its People - Defining "The Public Interest": The Xuanwu Gate Project pp55-66
+- Waldron, Arthur N. ‘The Problem of The Great Wall of China’. *Harvard Journal of Asiatic Studies* 43, no. 2 (1983): 643–63. [DOI](https://doi.org/10.2307/2719110) 
+- *Cars, Conduits, and Kampongs: The Modernization of the Indonesian City, 1920-1960* [Ebook](http://library.st-andrews.ac.uk/record=b3201333~S5)
+    - Ch 11 The Two alun-alun of Malang (1930-1960) pp272-298
+
+**Elective Reading:**
+
+These all focus on western examples. As you read these, ask yourself what alternative ways could you approach these topics in an East or Southeast Asian context? How might this alternative perspective offer different questions to ask?
+
+- A) *Corridors* - Luckhurst, Roger. *Corridors: Passages of Modernity*  Introduction + Ch 4, 6, 9. [Ebook](http://library.st-andrews.ac.uk/record=b3208435~S5)
+- B) *Doors* - Jütte, Daniel. *The Strait Gate: Thresholds and Power in Western History* Introduction + Ch 1, 4, 5 [Ebook](http://library.st-andrews.ac.uk/record=b3208436~S5)
+- C) *Bridges* - Harrison, Thomas. *Of Bridges: A Poetic and Philosophical Account* Introduction + Ch 2, 6, 9 [Ebook](http://library.st-andrews.ac.uk/record=b3197480~S5)
+- D) *Elevators* - Bernard, Andreas. *Lifted: A Cultural History of the Elevator.* NYU Press, 2014. Ch 2, 3, 5 [Ebook](http://library.st-andrews.ac.uk/record=b3091717~S5)
+- E) *Toilets* - Molotch, Harvey, and Laura Noren eds. *Toilet: Public Restrooms and the Politics of Sharing.* NYU Press, 2010. Introduction + Ch 3, 7, 8.  [Ebook](http://library.st-andrews.ac.uk/record=b3079960~S5)
+
+**Further Reading:**
+
+- Henry, Todd A. *Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea* Epilogue
+- Lovell, Julia. *The Great Wall: China Against the World, 1000 BC–AD 2000* 
+- Levine, Ari Daniel. ‘Walls and Gates, Windows and Mirrors: Urban Defences, Cultural Memory, and Security Theatre in Song Kaifeng’. *East Asian Science, Technology, and Medicine*, no. 39 (2014): 55–118.
+- Lee, Sinwoo *Contesting Seoul: Contacts, Conflicts, and Contestations Surrounding Seoul's City Walls, 1876-1919* [PhD Dissertation](https://escholarship.org/uc/item/0sc5v176)
 
 \pagebreak
 

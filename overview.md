@@ -2,8 +2,8 @@
 \setlength{\parindent}{0pt}
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk   
-**Meets:** Fall and Spring 2021-2022 Wed 10:00-13:00 St Katharine's Lodge 1.10  
-**Office Hours:** Tue 9-11 on Teams or Thu 5-6pm in person (please sign up for a [time](https://goo.gl/Rh19wj) )
+**Meets:** Fall and Spring 2023-2024 Wed 10:00-13:00 St Katharine's Lodge B3  
+**Office Hours:** Thu 10-11 on Teams (please sign up for a [time](https://goo.gl/Rh19wj) )
 
 ### Description	
 
@@ -19,20 +19,20 @@ Week 5 - Utopian Spaces
 Week 7 - Tropicality  
 Week 8 - Health, Hygiene and Sanitation  
 Week 9 - The Home and Domestic Space  
-Week 10 - Housing, Neighbourhood, and Suburb  
-Week 11 - Parks and Gardens  
+Week 10 - Housing  
+Week 11 - Neighbourhoods and the Suburb  
 
 **Semester Two:**
 
 Week 1 - Space and Mobility  
-Week 2 - Guest Seminar Yee, Sangwook : Museums and Exhibitions  
-Week 3 - The Gaze of the Tourist  
-Week 4 - Social Spaces  
-Week 5 - Spaces of Consumption  
-Week 6 - Messy Urbanism  
-Week 7 - Urban Space, Order, and Politics  
-Week 8 - Migration and Ethnic Space  
-Week 9 - Other Spaces  
+Week 2 - The Gaze of the Tourist  
+Week 3 - Parks and Gardens  
+Week 4 - Museums and Exhibitions  
+Week 5 - Social Spaces  
+Week 6 - Spaces of Consumption  
+Week 7 - Messy Urbanism  
+Week 8 - Urban Space, Order, and Politics  
+Week 9 - Migration and Ethnic Space  
 Week 10 - Geomancy  
 Week 11 - Sacred Space 
 
@@ -40,12 +40,13 @@ Week 11 - Sacred Space
 
 **100% Coursework**  
 
-Long Essay Fall (25%) - 5,000 words - 12 December  
-Long Essay Spring (25%) - 5,000 words - 28 April   
-Blog Entries Fall (10%) - 4 entries - 16 Nov (W7 Wed)  
-Blog Entries Spring (10%) - 4 entries - 29 March (W7 Wed)  
-Presentation Fall (15%)   
-Presentation Spring (15%)    
+Prospectus (Formative) - 23 Oct 23:59 (on Teams)  
+Blog Entries Fall (10%) - 24 Nov 23:59  
+Presentation Fall (15%)  
+Long Essay Fall (25%) - 13 Dec 23:15  
+Blog Entries Spring (10%) 4 Apr 23:59  
+Presentation Spring (15%)  
+Long Essay Spring (25%) 24 Apr 23:59  
 
 ### Learning Outcomes
 
