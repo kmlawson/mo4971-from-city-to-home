@@ -629,9 +629,9 @@ Urry, John and Jonas Larsen *The Tourist Gaze 3.0: Leisure and Travel in Contemp
 
 Baranowski, Shelley et al., “Tourism and Empire,” *Journal of Tourism History* 7, no. 1–2 (May 4, 2015): 100–130, [DOI](https://doi.org/10.1080/1755182X.2015.1063709)
 
-Vickers, Adrian *Bali: A Paradise Created* (2012 [1996]) Introduction and Ch 3 (Teams)
+Vickers, Adrian *Bali: A Paradise Created* (2012 [1996]) Introduction and Ch 3 [Ebook](http://library.st-andrews.ac.uk/record=b3314767~S5)
 
-View the documentary *Done Bali* (1993, 60 minutes, Teams) 
+View the documentary *Done Bali* (1993, 60 minutes) [Archive.org](https://archive.org/details/done-bali-1993)
 
 **Elective Reading:**
 
